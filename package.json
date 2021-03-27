@@ -1,0 +1,34 @@
+{
+    "name": "brackets-toornament-layer",
+    "version": "1.0.0",
+    "description": "A layer to convert Toornament data to brackets-viewer data",
+    "main": "./dist/convert.js",
+    "scripts": {
+        "lint": "eslint **/*.{js,ts} --fix",
+        "start": "ts-node src/main.ts",
+        "build": "tsc",
+        "prepare": "npm run build",
+        "prepublishOnly": "npm run build"
+    },
+    "keywords": [
+        "typescript",
+        "tournament",
+        "brackets",
+        "toornament",
+        "database"
+    ],
+    "author": "Corentin Girard",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^14.14.37",
+        "@typescript-eslint/eslint-plugin": "^4.19.0",
+        "@typescript-eslint/parser": "^4.19.0",
+        "eslint": "^7.23.0",
+        "eslint-plugin-jsdoc": "^32.3.0",
+        "typescript": "^4.2.3",
+        "ts-node": "^9.1.1"
+    },
+    "dependencies": {
+        "brackets-model": "^1.3.7"
+    }
+}

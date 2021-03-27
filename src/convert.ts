@@ -58,7 +58,7 @@ export function idFactory() {
     const ids: { [id: string]: number } = {};
 
     return (id: string): number => {
-        if (!ids[id]) ids[id] = currentId++;
+        if (ids[id] === undefined) ids[id] = currentId++;
         return ids[id];
     }
 }

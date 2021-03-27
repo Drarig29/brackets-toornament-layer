@@ -1,4 +1,4 @@
-import { StageType } from 'brackets-model';
+import { StageType, Status } from 'brackets-model';
 import { Database, toornament } from './types';
 
 /**
@@ -15,6 +15,24 @@ export function convertStageType(type: toornament.StageType): StageType {
             return type;
         default:
             throw Error('Stage type not supported.');
+    }
+}
+
+/**
+ * Converts a Toornament match status.
+ * 
+ * @param status Status of the match.
+ */
+export function convertMatchStatus(status: toornament.Status): Status {
+    switch (status) {
+        case 'pending':
+            // Use waiting because it ressembles to the name.
+            return Status.Waiting;
+        case 'running':
+            return Status.Running;
+        case 'completed':
+            // Use completed because it ressembles to the name.
+            return Status.Completed;
     }
 }
 
@@ -41,6 +59,20 @@ export function convertData(data: toornament.RootObject): Database {
             settings: {
                 size: stage.settings.size,
             },
+        });
+    }
+
+    for (const match of data.matches) {
+        db.match.push({
+            id: parseInt(match.id),
+            stage_id: parseInt(match.stage_id),
+            group_id: parseInt(match.group_id),
+            round_id: parseInt(match.round_id),
+            number: match.number,
+            child_count: 0, // Also get match games with Toornament API
+            status: convertMatchStatus(match.status),
+            opponent1: { id: null },
+            opponent2: { id: null },
         });
     }
 

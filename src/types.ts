@@ -69,6 +69,8 @@ export namespace toornament {
         score?: number;
     }
 
+    export type Status = 'pending' | 'running' | 'completed';
+
     export interface Match {
         id: string;
         stage_id: string;
@@ -76,7 +78,7 @@ export namespace toornament {
         round_id: string;
         number: number;
         type: string;
-        status: string;
+        status: Status;
         settings: unknown;
         scheduled_datetime?: string;
         played_at?: Date;

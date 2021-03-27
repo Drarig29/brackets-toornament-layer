@@ -4783,6 +4783,382 @@
                     "score": 16
                 }
             ]
+        },
+        {
+            "id": "3077723222878421112",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421123",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:43:11+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077780647797579776",
+                        "name": "SymbiOz",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421085",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421124",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:54:09+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077759135681216512",
+                        "name": "EZ4K",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421103",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421124",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:53:43+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077773704748204032",
+                        "name": "Redblood",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421082",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421125",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:50:19+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077776766496628736",
+                        "name": "OSBLK",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421100",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421125",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:53:43+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077761871238299648",
+                        "name": "AWLESS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421079",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421126",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T12:43:09+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077776766496628736",
+                        "name": "OSBLK",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 9
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421076",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421127",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T13:56:12+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077765954511773696",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421028",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866595",
+            "round_id": "3077723222878421128",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T15:45:37+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "3077768619205672960",
+                        "name": "Y",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 22
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 20
+                }
+            ]
         }
     ]
 }

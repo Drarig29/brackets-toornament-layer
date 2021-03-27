@@ -41,10 +41,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077778748680618000,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -56,10 +64,18 @@
             "child_count": 0,
             "status": 3,
             "opponent1": {
-                "id": null
+                "id": 3077748725048713000,
+                "score": 16,
+                "forfeit": false,
+                "result": null,
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077761871238299600,
+                "score": 12,
+                "forfeit": false,
+                "result": null,
+                "position": 2
             }
         },
         {
@@ -71,10 +87,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077761871238299600,
+                "score": 6,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -86,10 +110,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077778748680618000,
+                "score": 4,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077748725048713000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -101,10 +133,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077748725048713000,
+                "score": 10,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -116,10 +156,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077761871238299600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077778748680618000,
+                "score": 6,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -131,10 +179,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077780647797580000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -146,10 +202,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 15,
+                "forfeit": false,
+                "result": "draw",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077763656510947300,
+                "score": 15,
+                "forfeit": false,
+                "result": "draw",
+                "position": 2
             }
         },
         {
@@ -161,10 +225,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077763656510947300,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -176,10 +248,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077780647797580000,
+                "score": 5,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -191,10 +271,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 14,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 8,
+                "forfeit": true,
+                "result": null,
+                "position": 2
             }
         },
         {
@@ -206,10 +294,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077763656510947300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077780647797580000,
+                "score": 11,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -221,10 +317,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077732115213631500,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077782885788434400,
+                "score": 7,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -236,10 +340,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077747368944910300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 3,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -251,10 +363,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077732115213631500,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -266,10 +386,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077782885788434400,
+                "score": 5,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077747368944910300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -281,10 +409,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077732115213631500,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077747368944910300,
+                "score": 12,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -296,10 +432,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077782885788434400,
+                "score": 11,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -311,10 +455,18 @@
             "child_count": 0,
             "status": 3,
             "opponent1": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 16,
+                "forfeit": false,
+                "result": null,
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077785602891645000,
+                "score": 4,
+                "forfeit": false,
+                "result": null,
+                "position": 2
             }
         },
         {
@@ -326,10 +478,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": 8,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -341,10 +501,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": 7,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -356,10 +524,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077785602891645000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -371,10 +547,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 7,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -386,10 +570,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077785602891645000,
+                "score": 2,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -401,10 +593,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077788356807713000,
+                "score": 0,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -416,10 +616,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077751759018672000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077771351172718600,
+                "score": 4,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -431,10 +639,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077771351172718600,
+                "score": 11,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -446,10 +662,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077788356807713000,
+                "score": 2,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077751759018672000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -461,10 +685,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 15,
+                "forfeit": false,
+                "result": "draw",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077751759018672000,
+                "score": 15,
+                "forfeit": false,
+                "result": "draw",
+                "position": 2
             }
         },
         {
@@ -476,10 +708,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077771351172718600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077788356807713000,
+                "score": 5,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -491,10 +731,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077759135681216500,
+                "score": 8,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -506,10 +754,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077755148812476400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077773704748204000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -521,10 +777,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077773704748204000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -536,10 +800,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077759135681216500,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077755148812476400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -551,10 +823,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 15,
+                "forfeit": false,
+                "result": "draw",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077755148812476400,
+                "score": 15,
+                "forfeit": false,
+                "result": "draw",
+                "position": 2
             }
         },
         {
@@ -566,10 +846,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077773704748204000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077759135681216500,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -581,10 +869,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077739919496003600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791037336322000,
+                "score": 2,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -596,10 +892,18 @@
             "child_count": 0,
             "status": 3,
             "opponent1": {
-                "id": null
+                "id": 3077756548565942300,
+                "score": 16,
+                "forfeit": false,
+                "result": null,
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077775379055444000,
+                "score": 7,
+                "forfeit": false,
+                "result": null,
+                "position": 2
             }
         },
         {
@@ -611,10 +915,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077739919496003600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077775379055444000,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -626,10 +938,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077791037336322000,
+                "score": 2,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077756548565942300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -641,10 +961,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077739919496003600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077756548565942300,
+                "score": 11,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -656,10 +984,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077775379055444000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791037336322000,
+                "score": 6,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -671,10 +1007,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077742000446980000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791812101972000,
+                "score": 0,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -686,10 +1030,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077776766496628700,
+                "score": 3,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -701,10 +1053,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077742000446980000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077776766496628700,
+                "score": 6,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -716,10 +1076,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077791812101972000,
+                "score": 2,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -731,10 +1099,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077742000446980000,
+                "score": 7,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -746,10 +1122,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077776766496628700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791812101972000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -761,10 +1145,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077742000446980000,
+                "score": 12,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -776,10 +1168,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077739919496003600,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -791,10 +1191,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 12,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -806,10 +1214,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077747368944910300,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -821,10 +1237,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077756548565942300,
+                "score": 2,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -836,10 +1260,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077748725048713000,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -851,10 +1283,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077732115213631500,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077755148812476400,
+                "score": 11,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -866,10 +1306,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077751759018672000,
+                "score": 11,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -881,10 +1329,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -896,10 +1352,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -911,10 +1375,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 22,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 18,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -926,10 +1398,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077732115213631500,
+                "score": 13,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -941,10 +1421,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 2,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -956,10 +1444,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 2,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 0,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -971,10 +1467,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 0,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 2,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -986,10 +1490,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077751759018672000,
+                "score": 12,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077755148812476400,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1001,10 +1513,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077748725048713000,
+                "score": 19,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077756548565942300,
+                "score": 16,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1016,10 +1536,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077747368944910300,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1031,10 +1559,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077739919496003600,
+                "score": 6,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077742000446980000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1046,10 +1582,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077755148812476400,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1061,10 +1605,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077748725048713000,
+                "score": 3,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1076,10 +1628,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077732115213631500,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1091,10 +1651,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077742000446980000,
+                "score": 8,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1106,10 +1674,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077738508700729300,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1121,10 +1697,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077733001141674000,
+                "score": 6,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1136,10 +1720,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077744186710696000,
+                "score": 13,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1151,10 +1743,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077736642244108300,
+                "score": 5,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1166,10 +1766,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077789642304626700,
+                "score": 10,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1181,10 +1789,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 19,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077751045202256000,
+                "score": 15,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1196,10 +1812,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077730484902060000,
+                "score": 2,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077728491225915400,
+                "score": 0,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1211,10 +1835,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077761871238299600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791812101972000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1226,10 +1858,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077775379055444000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077780647797580000,
+                "score": 7,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1241,10 +1881,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077788356807713000,
+                "score": 4,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1256,10 +1904,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077773704748204000,
+                "score": 16,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077782885788434400,
+                "score": 19,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1271,10 +1927,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077763656510947300,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791037336322000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1286,10 +1950,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077776766496628700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077778748680618000,
+                "score": 10,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1301,10 +1973,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077759135681216500,
+                "score": 10,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1316,10 +1996,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077771351172718600,
+                "score": null,
+                "forfeit": true,
+                "result": null,
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077785602891645000,
+                "score": null,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1331,10 +2019,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077761871238299600,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077775379055444000,
+                "score": 12,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1346,10 +2042,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077782885788434400,
+                "score": 9,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1361,10 +2065,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077763656510947300,
+                "score": 5,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077776766496628700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1376,10 +2088,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077785602891645000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1391,10 +2111,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077761871238299600,
+                "score": null,
+                "forfeit": true,
+                "result": null,
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": null,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1406,10 +2134,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077776766496628700,
+                "score": 4,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1421,10 +2157,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077768619205673000,
+                "score": 2,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077765954511773700,
+                "score": 0,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1436,10 +2180,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077771351172718600,
+                "score": null,
+                "forfeit": true,
+                "result": null,
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077759135681216500,
+                "score": null,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1451,10 +2203,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077778748680618000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791037336322000,
+                "score": 3,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1466,10 +2226,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077773704748204000,
+                "score": null,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077788356807713000,
+                "score": null,
+                "forfeit": true,
+                "result": null,
+                "position": 2
             }
         },
         {
@@ -1481,10 +2249,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077780647797580000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             },
             "opponent2": {
-                "id": null
+                "id": 3077791812101972000,
+                "score": 1,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             }
         },
         {
@@ -1496,10 +2272,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077782885788434400,
+                "score": 16,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077759135681216500,
+                "score": 19,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1511,10 +2295,18 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077775379055444000,
+                "score": 14,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077778748680618000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         },
         {
@@ -1526,13 +2318,182 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": null
+                "id": 3077785602891645000,
+                "score": 5,
+                "forfeit": false,
+                "result": "loss",
+                "position": 2
             },
             "opponent2": {
-                "id": null
+                "id": 3077773704748204000,
+                "score": 16,
+                "forfeit": false,
+                "result": "win",
+                "position": 1
             }
         }
     ],
     "match_game": [],
-    "participant": []
+    "participant": [
+        {
+            "id": 3077728491225915400,
+            "name": "POCEBLO",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077778748680618000,
+            "name": "Team Claquée",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077748725048713000,
+            "name": "x0.25",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077761871238299600,
+            "name": "AWLESS",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077730484902060000,
+            "name": "PodiumOuRien",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077780647797580000,
+            "name": "SymbiOz",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077744186710696000,
+            "name": "Venture_eSport",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077763656510947300,
+            "name": "Getting Meuffed",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077732115213631500,
+            "name": "PipePingouin",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077782885788434400,
+            "name": "Legendary ESIEA Masters",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077747368944910300,
+            "name": "Mario Mousse",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077765954511773700,
+            "name": "ZOOLAND",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077733001141674000,
+            "name": "DOGinLaN",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077785602891645000,
+            "name": "sans pression",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077751045202256000,
+            "name": "ploxiFANS",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077768619205673000,
+            "name": "Y",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077736642244108300,
+            "name": "REDFOX",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077788356807713000,
+            "name": "Rxspect",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077751759018672000,
+            "name": "MAN IN WHITE",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077771351172718600,
+            "name": "UR1KAN",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077738508700729300,
+            "name": "Peaky Blinders",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077759135681216500,
+            "name": "EZ4K",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077755148812476400,
+            "name": "reDEAFusion",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077773704748204000,
+            "name": "Redblood",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077739919496003600,
+            "name": "KebaBEAST",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077791037336322000,
+            "name": "Carry me plz",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077756548565942300,
+            "name": "dogtrainers",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077775379055444000,
+            "name": "Olympe",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077742000446980000,
+            "name": "Retour Samedi ou Dimanche",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077791812101972000,
+            "name": "Just Dew It",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077789642304626700,
+            "name": "TIM WHULA",
+            "tournament_id": 0
+        },
+        {
+            "id": 3077776766496628700,
+            "name": "OSBLK",
+            "tournament_id": 0
+        }
+    ]
 }

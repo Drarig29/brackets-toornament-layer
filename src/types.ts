@@ -1,4 +1,4 @@
-import { Match, MatchGame, Participant, Stage } from 'brackets-model';
+import { Match, MatchGame, Participant, Result, Stage } from 'brackets-model';
 
 export interface Database {
     stage: Stage[],
@@ -64,7 +64,7 @@ export namespace toornament {
         position: number;
         participant: Participant;
         rank?: number;
-        result: string;
+        result: Result;
         forfeit: boolean;
         score?: number;
     }

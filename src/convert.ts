@@ -1,4 +1,4 @@
-import { StageType, Status } from 'brackets-model';
+import { Participant, ParticipantResult, StageType, Status } from 'brackets-model';
 import { Database, toornament } from './types';
 
 /**
@@ -36,6 +36,24 @@ export function convertMatchStatus(status: toornament.Status): Status {
     }
 }
 
+export function convertParticipant(participant: toornament.Participant): Participant {
+    return {
+        id: parseInt(participant.id),
+        name: participant.name,
+        tournament_id: 0,
+    }
+}
+
+export function convertParticipantResult(result: toornament.Opponent): ParticipantResult {
+    return {
+        id: parseInt(result.participant.id),
+        score: result.score,
+        forfeit: result.forfeit,
+        result: result.result,
+        position: result.position, // TODO: Not sure about that
+    }
+}
+
 /**
  * Converts Toornament data to brackets-viewer data.
  * 
@@ -62,19 +80,32 @@ export function convertData(data: toornament.RootObject): Database {
         });
     }
 
+    const participants: { [id: number]: Participant } = {};
+
     for (const match of data.matches) {
+        const opponent1 = convertParticipant(match.opponents[0].participant);
+        const opponent2 = convertParticipant(match.opponents[1].participant);
+
+        if (!participants[opponent1.id])
+            participants[opponent1.id] = opponent1
+
+        if (!participants[opponent2.id])
+            participants[opponent2.id] = opponent2
+
         db.match.push({
             id: parseInt(match.id),
             stage_id: parseInt(match.stage_id),
             group_id: parseInt(match.group_id),
             round_id: parseInt(match.round_id),
             number: match.number,
-            child_count: 0, // Also get match games with Toornament API
+            child_count: 0, // TODO: Also get match games with Toornament API
             status: convertMatchStatus(match.status),
-            opponent1: { id: null },
-            opponent2: { id: null },
+            opponent1: convertParticipantResult(match.opponents[0]),
+            opponent2: convertParticipantResult(match.opponents[1]),
         });
     }
+
+    Object.values(participants).forEach(participant => db.participant.push(participant));
 
     return db;
 }

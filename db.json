@@ -1,7 +1,7 @@
 {
     "stage": [
         {
-            "id": 3359826493568360400,
+            "id": 3077716760568930300,
             "tournament_id": 0,
             "name": "Poules",
             "type": "round_robin",
@@ -11,9 +11,9 @@
             }
         },
         {
-            "id": 3359829612252659700,
+            "id": 3077722670113628000,
             "tournament_id": 0,
-            "name": "Tournoi Amateur",
+            "name": "Tournoi Elite",
             "type": "double_elimination",
             "number": 2,
             "settings": {
@@ -21,9 +21,9 @@
             }
         },
         {
-            "id": 3359830868729700400,
+            "id": 3077723222240887000,
             "tournament_id": 0,
-            "name": "Tournoi Élite",
+            "name": "Tournoi Amateur",
             "type": "double_elimination",
             "number": 3,
             "settings": {

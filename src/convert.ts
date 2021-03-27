@@ -69,9 +69,9 @@ export function convertParticipant(id: number, participant: toornament.Participa
 export function convertParticipantResult(id: number, result: toornament.Opponent): ParticipantResult {
     return {
         id,
-        score: result.score,
+        score: result.score !== null ? result.score : undefined,
         forfeit: result.forfeit,
-        result: result.result,
+        result: result.result || 'loss',
     }
 }
 

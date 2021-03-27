@@ -67,9 +67,9 @@ export namespace toornament {
         position: number;
         participant: Participant;
         rank?: number;
-        result: Result;
+        result: Result | null;
         forfeit: boolean;
-        score?: number;
+        score?: number | null;
     }
 
     export type Status = 'pending' | 'running' | 'completed';

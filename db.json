@@ -71,13 +71,13 @@
                 "id": 2,
                 "score": 16,
                 "forfeit": false,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 3,
                 "score": 12,
                 "forfeit": false,
-                "result": null
+                "result": "loss"
             }
         },
         {
@@ -266,7 +266,7 @@
                 "id": 6,
                 "score": 8,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             }
         },
         {
@@ -428,13 +428,13 @@
                 "id": 12,
                 "score": 16,
                 "forfeit": false,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 13,
                 "score": 4,
                 "forfeit": false,
-                "result": null
+                "result": "loss"
             }
         },
         {
@@ -827,13 +827,13 @@
                 "id": 26,
                 "score": 16,
                 "forfeit": false,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 27,
                 "score": 7,
                 "forfeit": false,
-                "result": null
+                "result": "loss"
             }
         },
         {
@@ -1833,13 +1833,11 @@
             "status": 4,
             "opponent1": {
                 "id": 19,
-                "score": null,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 13,
-                "score": null,
                 "forfeit": false,
                 "result": "win"
             }
@@ -1938,13 +1936,11 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
-                "score": null,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 15,
-                "score": null,
                 "forfeit": false,
                 "result": "win"
             }
@@ -2001,13 +1997,11 @@
             "status": 4,
             "opponent1": {
                 "id": 19,
-                "score": null,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 21,
-                "score": null,
                 "forfeit": false,
                 "result": "win"
             }
@@ -2043,15 +2037,13 @@
             "status": 4,
             "opponent1": {
                 "id": 23,
-                "score": null,
                 "forfeit": false,
                 "result": "win"
             },
             "opponent2": {
                 "id": 17,
-                "score": null,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             }
         },
         {
@@ -2169,13 +2161,11 @@
             "status": 4,
             "opponent1": {
                 "id": 21,
-                "score": null,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 1,
-                "score": null,
                 "forfeit": false,
                 "result": "win"
             }
@@ -2232,13 +2222,11 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
-                "score": null,
                 "forfeit": true,
-                "result": null
+                "result": "loss"
             },
             "opponent2": {
                 "id": 7,
-                "score": null,
                 "forfeit": false,
                 "result": "win"
             }

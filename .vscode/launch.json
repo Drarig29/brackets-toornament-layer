@@ -15,7 +15,11 @@
                 "-r",
                 "ts-node/register"
             ],
-            "program": "${workspaceFolder}/dist/main.js"
+            "program": "${workspaceFolder}/dist/main.js",
+            "preLaunchTask": "tsc: build - tsconfig.json",
+            "outFiles": [
+                "${workspaceFolder}/dist/**/*.js"
+            ]
         }
     ]
 }

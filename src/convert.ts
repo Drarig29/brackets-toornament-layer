@@ -36,21 +36,30 @@ export function convertMatchStatus(status: toornament.Status): Status {
     }
 }
 
-export function convertParticipant(participant: toornament.Participant): Participant {
+export function convertParticipant(id: number, participant: toornament.Participant): Participant {
     return {
-        id: parseInt(participant.id),
+        id,
         name: participant.name,
         tournament_id: 0,
     }
 }
 
-export function convertParticipantResult(result: toornament.Opponent): ParticipantResult {
+export function convertParticipantResult(id: number, result: toornament.Opponent): ParticipantResult {
     return {
-        id: parseInt(result.participant.id),
+        id,
         score: result.score,
         forfeit: result.forfeit,
         result: result.result,
-        position: result.position, // TODO: Not sure about that
+    }
+}
+
+export function idFactory() {
+    let currentId = 0;
+    const ids: { [id: string]: number } = {};
+
+    return (id: string): number => {
+        if (!ids[id]) ids[id] = currentId++;
+        return ids[id];
     }
 }
 
@@ -67,9 +76,11 @@ export function convertData(data: toornament.RootObject): Database {
         participant: [],
     };
 
+    const stageId = idFactory();
+
     for (const stage of data.stages) {
         db.stage.push({
-            id: parseInt(stage.id),
+            id: stageId(stage.id),
             tournament_id: 0,
             name: stage.name,
             type: convertStageType(stage.type),
@@ -82,9 +93,16 @@ export function convertData(data: toornament.RootObject): Database {
 
     const participants: { [id: number]: Participant } = {};
 
+    const participantId = idFactory();
+    const matchId = idFactory();
+    const groupId = idFactory();
+    const roundId = idFactory();
+
     for (const match of data.matches) {
-        const opponent1 = convertParticipant(match.opponents[0].participant);
-        const opponent2 = convertParticipant(match.opponents[1].participant);
+        const [id1, id2] = match.opponents.map(opponent => participantId(opponent.participant.id));
+
+        const opponent1 = convertParticipant(id1, match.opponents[0].participant);
+        const opponent2 = convertParticipant(id2, match.opponents[1].participant);
 
         if (!participants[opponent1.id])
             participants[opponent1.id] = opponent1
@@ -93,15 +111,15 @@ export function convertData(data: toornament.RootObject): Database {
             participants[opponent2.id] = opponent2
 
         db.match.push({
-            id: parseInt(match.id),
-            stage_id: parseInt(match.stage_id),
-            group_id: parseInt(match.group_id),
-            round_id: parseInt(match.round_id),
+            id: matchId(match.id),
+            stage_id: stageId(match.stage_id),
+            group_id: groupId(match.group_id),
+            round_id: roundId(match.round_id),
             number: match.number,
             child_count: 0, // TODO: Also get match games with Toornament API
             status: convertMatchStatus(match.status),
-            opponent1: convertParticipantResult(match.opponents[0]),
-            opponent2: convertParticipantResult(match.opponents[1]),
+            opponent1: convertParticipantResult(id1, match.opponents[0]),
+            opponent2: convertParticipantResult(id2, match.opponents[1]),
         });
     }
 

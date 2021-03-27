@@ -7,7 +7,9 @@
             "type": "round_robin",
             "number": 1,
             "settings": {
-                "size": 32
+                "size": 32,
+                "groupCount": 8,
+                "roundRobinMode": "simple"
             }
         },
         {
@@ -17,7 +19,9 @@
             "type": "double_elimination",
             "number": 2,
             "settings": {
-                "size": 16
+                "size": 16,
+                "grandFinal": "simple",
+                "skipFirstRound": false
             }
         },
         {
@@ -27,7 +31,9 @@
             "type": "double_elimination",
             "number": 3,
             "settings": {
-                "size": 16
+                "size": 16,
+                "grandFinal": "simple",
+                "skipFirstRound": false
             }
         }
     ],

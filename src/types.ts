@@ -1,4 +1,4 @@
-import { Match, MatchGame, Participant, Result, Stage } from 'brackets-model';
+import { GrandFinalType, Match, MatchGame, Participant, Result, Stage } from 'brackets-model';
 
 export interface Database {
     stage: Stage[],
@@ -26,6 +26,8 @@ export namespace toornament {
         options: unknown[];
     }
 
+    export type PairingMethod = 'manual' | 'standard' | 'double_standard';
+
     export interface StageSettings {
         size: number;
         arrival: string;
@@ -35,9 +37,10 @@ export namespace toornament {
         tiebreakers: Tiebreaker[];
         group_naming: string;
         round_naming: string;
-        pairing_method: string;
+        pairing_method: PairingMethod;
         threshold?: number;
-        grand_final: string;
+        grand_final: GrandFinalType;
+        third_decider?: boolean;
         skip_round1?: boolean;
     }
 

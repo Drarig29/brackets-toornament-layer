@@ -1,4 +1,4 @@
-import { Participant, ParticipantResult, StageType, Status } from 'brackets-model';
+import { Participant, ParticipantResult, RoundRobinMode, StageSettings, StageType, Status } from 'brackets-model';
 import { Database, toornament } from './types';
 
 /**
@@ -15,6 +15,28 @@ export function convertStageType(type: toornament.StageType): StageType {
             return type;
         default:
             throw Error('Stage type not supported.');
+    }
+}
+
+export function convertStageSettings(settings: toornament.StageSettings): StageSettings {
+    return {
+        size: settings.size,
+        groupCount: settings.nb_groups,
+        grandFinal: settings.grand_final,
+        skipFirstRound: settings.skip_round1,
+        consolationFinal: settings.third_decider,
+        roundRobinMode: convertRoundRobinMode(settings.pairing_method),
+    }
+}
+
+export function convertRoundRobinMode(method: toornament.PairingMethod): RoundRobinMode | undefined {
+    switch (method) {
+        case 'standard':
+            return 'simple';
+        case 'double_standard':
+            return 'double';
+        default:
+            return undefined;
     }
 }
 
@@ -85,9 +107,7 @@ export function convertData(data: toornament.RootObject): Database {
             name: stage.name,
             type: convertStageType(stage.type),
             number: stage.number,
-            settings: {
-                size: stage.settings.size,
-            },
+            settings: convertStageSettings(stage.settings),
         });
     }
 

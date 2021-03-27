@@ -2,7 +2,11 @@
     "name": "brackets-toornament-layer",
     "version": "1.0.0",
     "description": "A layer to convert Toornament data to brackets-viewer data",
-    "main": "./dist/convert.js",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
     "scripts": {
         "lint": "eslint **/*.{js,ts} --fix",
         "start": "ts-node src/main.ts",

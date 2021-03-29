@@ -138,15 +138,15 @@
             "round_id": "3077716761206464583",
             "number": 2,
             "type": "duel",
-            "status": "running",
+            "status": "completed",
             "settings": {
                 "match_format": null
             },
             "scheduled_datetime": null,
-            "played_at": null,
+            "played_at": "2021-03-29T20:07:26+00:00",
             "public_note": null,
             "private_note": null,
-            "report_closed": false,
+            "report_closed": true,
             "opponents": [
                 {
                     "number": 1,
@@ -158,7 +158,7 @@
                         "custom_fields": {}
                     },
                     "rank": null,
-                    "result": null,
+                    "result": "win",
                     "forfeit": false,
                     "score": 16
                 },
@@ -172,7 +172,7 @@
                         "custom_fields": {}
                     },
                     "rank": null,
-                    "result": null,
+                    "result": "loss",
                     "forfeit": false,
                     "score": 12
                 }
@@ -937,15 +937,15 @@
             "round_id": "3077716761206464664",
             "number": 1,
             "type": "duel",
-            "status": "running",
+            "status": "completed",
             "settings": {
                 "match_format": null
             },
             "scheduled_datetime": null,
-            "played_at": null,
+            "played_at": "2021-03-29T20:07:52+00:00",
             "public_note": null,
             "private_note": null,
-            "report_closed": false,
+            "report_closed": true,
             "opponents": [
                 {
                     "number": 1,
@@ -957,7 +957,7 @@
                         "custom_fields": {}
                     },
                     "rank": null,
-                    "result": null,
+                    "result": "win",
                     "forfeit": false,
                     "score": 16
                 },
@@ -971,7 +971,7 @@
                         "custom_fields": {}
                     },
                     "rank": null,
-                    "result": null,
+                    "result": "loss",
                     "forfeit": false,
                     "score": 4
                 }
@@ -1830,15 +1830,15 @@
             "round_id": "3077716761206464745",
             "number": 2,
             "type": "duel",
-            "status": "running",
+            "status": "completed",
             "settings": {
                 "match_format": null
             },
             "scheduled_datetime": null,
-            "played_at": null,
+            "played_at": "2021-03-27T21:56:00+00:00",
             "public_note": null,
             "private_note": null,
-            "report_closed": false,
+            "report_closed": true,
             "opponents": [
                 {
                     "number": 1,
@@ -1850,7 +1850,7 @@
                         "custom_fields": {}
                     },
                     "rank": null,
-                    "result": null,
+                    "result": "win",
                     "forfeit": false,
                     "score": 16
                 },
@@ -1864,7 +1864,7 @@
                         "custom_fields": {}
                     },
                     "rank": null,
-                    "result": null,
+                    "result": "loss",
                     "forfeit": false,
                     "score": 7
                 }

@@ -71,7 +71,7 @@ export function convertParticipantResult(id: number | null, result: toornament.O
         id,
         score: result.score !== null ? result.score : undefined,
         forfeit: result.forfeit,
-        result: result.result || 'loss',
+        result: result.result || undefined,
     }
 }
 

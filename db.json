@@ -66,12 +66,12 @@
             "round_id": 0,
             "number": 2,
             "child_count": 0,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": 2,
                 "score": 16,
                 "forfeit": false,
-                "result": "loss"
+                "result": "win"
             },
             "opponent2": {
                 "id": 3,
@@ -265,8 +265,7 @@
             "opponent2": {
                 "id": 6,
                 "score": 8,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             }
         },
         {
@@ -423,12 +422,12 @@
             "round_id": 9,
             "number": 1,
             "child_count": 0,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": 12,
                 "score": 16,
                 "forfeit": false,
-                "result": "loss"
+                "result": "win"
             },
             "opponent2": {
                 "id": 13,
@@ -822,12 +821,12 @@
             "round_id": 18,
             "number": 2,
             "child_count": 0,
-            "status": 3,
+            "status": 4,
             "opponent1": {
                 "id": 26,
                 "score": 16,
                 "forfeit": false,
-                "result": "loss"
+                "result": "win"
             },
             "opponent2": {
                 "id": 27,
@@ -1833,8 +1832,7 @@
             "status": 4,
             "opponent1": {
                 "id": 19,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             },
             "opponent2": {
                 "id": 13,
@@ -1936,8 +1934,7 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             },
             "opponent2": {
                 "id": 15,
@@ -1997,8 +1994,7 @@
             "status": 4,
             "opponent1": {
                 "id": 19,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             },
             "opponent2": {
                 "id": 21,
@@ -2042,8 +2038,7 @@
             },
             "opponent2": {
                 "id": 17,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             }
         },
         {
@@ -2161,8 +2156,7 @@
             "status": 4,
             "opponent1": {
                 "id": 21,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             },
             "opponent2": {
                 "id": 1,
@@ -2222,8 +2216,7 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
-                "forfeit": true,
-                "result": "loss"
+                "forfeit": true
             },
             "opponent2": {
                 "id": 7,

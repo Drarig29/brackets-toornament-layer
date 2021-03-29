@@ -66,7 +66,7 @@ export function convertParticipant(id: number, participant: toornament.Participa
     }
 }
 
-export function convertParticipantResult(id: number, result: toornament.Opponent): ParticipantResult {
+export function convertParticipantResult(id: number | null, result: toornament.Opponent): ParticipantResult {
     return {
         id,
         score: result.score !== null ? result.score : undefined,
@@ -119,16 +119,21 @@ export function convertData(data: toornament.RootObject): Database {
     const roundId = idFactory();
 
     for (const match of data.matches) {
-        const [id1, id2] = match.opponents.map(opponent => participantId(opponent.participant.id));
+        const [id1, id2] = match.opponents.map(opponent => opponent.participant?.id !== undefined ? participantId(opponent.participant.id) : null);
 
-        const opponent1 = convertParticipant(id1, match.opponents[0].participant);
-        const opponent2 = convertParticipant(id2, match.opponents[1].participant);
+        if (id1 !== null && match.opponents[0].participant) {
+            const opponent1 = convertParticipant(id1, match.opponents[0].participant);
 
-        if (!participants[opponent1.id])
-            participants[opponent1.id] = opponent1
+            if (!participants[opponent1.id])
+                participants[opponent1.id] = opponent1
+        }
 
-        if (!participants[opponent2.id])
-            participants[opponent2.id] = opponent2
+        if (id2 !== null && match.opponents[1].participant) {
+            const opponent2 = convertParticipant(id2, match.opponents[1].participant);
+
+            if (!participants[opponent2.id])
+                participants[opponent2.id] = opponent2
+        }
 
         db.match.push({
             id: matchId(match.id),

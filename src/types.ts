@@ -65,7 +65,7 @@ export namespace toornament {
     export interface Opponent {
         number: number;
         position: number;
-        participant: Participant;
+        participant: Participant | null;
         rank?: number;
         result: Result | null;
         forfeit: boolean;

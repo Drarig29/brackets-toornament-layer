@@ -70,7 +70,7 @@ export function convertParticipantResult(id: number | null, result: toornament.O
     return {
         id,
         score: result.score !== null ? result.score : undefined,
-        forfeit: result.forfeit,
+        forfeit: result.forfeit || undefined,
         result: result.result || undefined,
     }
 }

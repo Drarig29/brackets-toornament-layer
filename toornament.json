@@ -2343,2821 +2343,2881 @@
         },
         {
             "id": "3077722670684053552",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T22:52:01+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077728491225915392",
                         "name": "POCEBLO",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077742000446980096",
                         "name": "Retour Samedi ou Dimanche",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 12
+                    "score": 12,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421040",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:25:52+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077761871238299648",
+                        "name": "AWLESS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077791812101971968",
+                        "name": "Just Dew It",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 1,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053555",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 2,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T22:51:38+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077739919496003584",
                         "name": "KebaBEAST",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 14
+                    "score": 14,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077744186710695936",
                         "name": "Venture_eSport",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421043",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:55:32+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077775379055443968",
+                        "name": "Olympe",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077780647797579776",
+                        "name": "SymbiOz",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053561",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 3,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T23:15:39+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077733001141673984",
                         "name": "DOGinLaN",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 12
+                    "score": 12,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077736642244108288",
                         "name": "REDFOX",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421049",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 3,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:33:37+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077768619205672960",
+                        "name": "Y",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077788356807712768",
+                        "name": "Rxspect",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053564",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 4,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T23:12:36+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077738508700729344",
                         "name": "Peaky Blinders",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077747368944910336",
                         "name": "Mario Mousse",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 14
+                    "score": 14,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421052",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T23:46:43+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077773704748204032",
+                        "name": "Redblood",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077782885788434432",
+                        "name": "Legendary ESIEA Masters",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 19,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053573",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 5,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T22:32:33+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077730484902060032",
                         "name": "PodiumOuRien",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077756548565942272",
                         "name": "dogtrainers",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 2
+                    "score": 2,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421061",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 5,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:38:09+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077791037336322048",
+                        "name": "Carry me plz",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 1,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421064",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 6,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:52:39+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077776766496628736",
+                        "name": "OSBLK",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 10,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053576",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 6,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T23:01:24+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077789642304626688",
                         "name": "TIM WHULA",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077748725048713216",
                         "name": "x0.25",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 14
+                    "score": 14,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421070",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 7,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:34:57+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077765954511773696",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077759135681216512",
+                        "name": "EZ4K",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 10,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053582",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 7,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T23:06:22+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077732115213631488",
                         "name": "PipePingouin",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077755148812476416",
                         "name": "reDEAFusion",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 11
+                    "score": 11,
+                    "source_type": "none",
+                    "source_node_id": null
                 }
             ]
         },
         {
             "id": "3077722670684053585",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053630",
             "number": 8,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-11-30T23:01:00+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 8,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077751759018672128",
                         "name": "MAN IN WHITE",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 11
+                    "score": 11,
+                    "source_type": "none",
+                    "source_node_id": null
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077751045202255872",
                         "name": "ploxiFANS",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421073",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421118",
+            "number": 8,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:27:08+00:00",
+            "depth": 8,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077771351172718592",
+                        "name": "UR1KAN",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null,
+                    "source_type": "none",
+                    "source_node_id": null
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077785602891644928",
+                        "name": "sans pression",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null,
+                    "source_type": "none",
+                    "source_node_id": null
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421037",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421119",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:21:14+00:00",
+            "depth": 7,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077761871238299648",
+                        "name": "AWLESS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421040"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077775379055443968",
+                        "name": "Olympe",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 12,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421043"
                 }
             ]
         },
         {
             "id": "3077722670684053549",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053631",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T00:27:09+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 7,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077728491225915392",
                         "name": "POCEBLO",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053552"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077744186710695936",
                         "name": "Venture_eSport",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 9
+                    "score": 9,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053555"
                 }
             ]
         },
         {
             "id": "3077722670684053558",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053631",
             "number": 2,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T00:47:59+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 7,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077736642244108288",
                         "name": "REDFOX",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053561"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077738508700729344",
                         "name": "Peaky Blinders",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 9
+                    "score": 9,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053564"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421046",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421119",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:55:06+00:00",
+            "depth": 7,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077768619205672960",
+                        "name": "Y",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421049"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077782885788434432",
+                        "name": "Legendary ESIEA Masters",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 9,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421052"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421058",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421119",
+            "number": 3,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:11:05+00:00",
+            "depth": 7,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421061"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077776766496628736",
+                        "name": "OSBLK",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421064"
                 }
             ]
         },
         {
             "id": "3077722670684053570",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053631",
             "number": 3,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T00:50:44+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 7,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077730484902060032",
                         "name": "PodiumOuRien",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 22
+                    "score": 22,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053573"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077789642304626688",
                         "name": "TIM WHULA",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 18
+                    "score": 18,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053576"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421067",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421119",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T23:31:17+00:00",
+            "depth": 7,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077765954511773696",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421070"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077785602891644928",
+                        "name": "sans pression",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 1,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421073"
                 }
             ]
         },
         {
             "id": "3077722670684053579",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053631",
             "number": 4,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T00:49:24+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 7,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077732115213631488",
                         "name": "PipePingouin",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 13
+                    "score": 13,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053582"
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077751045202255872",
                         "name": "ploxiFANS",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053585"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421091",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421122",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T22:38:20+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077771351172718592",
+                        "name": "UR1KAN",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421073"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077759135681216512",
+                        "name": "EZ4K",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421070"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053603",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053634",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:41:31+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077751759018672128",
+                        "name": "MAN IN WHITE",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 12,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053585"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077755148812476416",
+                        "name": "reDEAFusion",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053582"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421097",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421122",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-11-30T23:51:41+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421064"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077791037336322048",
+                        "name": "Carry me plz",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 3,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421061"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053609",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053634",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:40:32+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077748725048713216",
+                        "name": "x0.25",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 19,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053576"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077756548565942272",
+                        "name": "dogtrainers",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053573"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053621",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053634",
+            "number": 3,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:40:04+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077747368944910336",
+                        "name": "Mario Mousse",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053564"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077733001141673984",
+                        "name": "DOGinLaN",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053561"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421109",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421122",
+            "number": 3,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:12:07+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077773704748204032",
+                        "name": "Redblood",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421052"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077788356807712768",
+                        "name": "Rxspect",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421049"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421115",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421122",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:20:55+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077780647797579776",
+                        "name": "SymbiOz",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421043"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077791812101971968",
+                        "name": "Just Dew It",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 1,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421040"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053627",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053634",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T00:20:13+00:00",
+            "depth": 7,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077739919496003584",
+                        "name": "KebaBEAST",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 6,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053555"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077742000446980096",
+                        "name": "Retour Samedi ou Dimanche",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053552"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053600",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053635",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:24:53+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077738508700729344",
+                        "name": "Peaky Blinders",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053558"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077755148812476416",
+                        "name": "reDEAFusion",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 1,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053603"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421088",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421123",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T02:17:00+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077782885788434432",
+                        "name": "Legendary ESIEA Masters",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421046"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077759135681216512",
+                        "name": "EZ4K",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 19,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421091"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421094",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421123",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T02:28:42+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077775379055443968",
+                        "name": "Olympe",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421037"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421097"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053606",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053635",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T01:59:40+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077744186710695936",
+                        "name": "Venture_eSport",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053549"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077748725048713216",
+                        "name": "x0.25",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 3,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053609"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421106",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421123",
+            "number": 3,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T01:10:32+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077785602891644928",
+                        "name": "sans pression",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421067"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077773704748204032",
+                        "name": "Redblood",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421109"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053618",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053635",
+            "number": 3,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T02:16:02+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077732115213631488",
+                        "name": "PipePingouin",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053579"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077733001141673984",
+                        "name": "DOGinLaN",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053621"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421112",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421123",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:43:11+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421058"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077780647797579776",
+                        "name": "SymbiOz",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421115"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053624",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053635",
+            "number": 4,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T02:16:29+00:00",
+            "depth": 6,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077789642304626688",
+                        "name": "TIM WHULA",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053570"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077742000446980096",
+                        "name": "Retour Samedi ou Dimanche",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 8,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053627"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421034",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421120",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:20:56+00:00",
+            "depth": 5,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077761871238299648",
+                        "name": "AWLESS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421037"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077768619205672960",
+                        "name": "Y",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421046"
                 }
             ]
         },
         {
             "id": "3077722670684053546",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053632",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T11:49:32+00:00",
-            "public_note": "BO 3 :\r\n16 - 9\r\n9 - 16\r\n16 - 5",
-            "private_note": null,
-            "report_closed": true,
+            "depth": 5,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077728491225915392",
                         "name": "POCEBLO",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 2
+                    "score": 2,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053549"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077736642244108288",
                         "name": "REDFOX",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 1
+                    "score": 1,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053558"
                 }
             ]
         },
         {
             "id": "3077722670684053567",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053632",
             "number": 2,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T10:21:32+00:00",
-            "public_note": "BO 3 :\r\n16 - 8\r\n16 - 7",
-            "private_note": null,
-            "report_closed": true,
+            "depth": 5,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077730484902060032",
                         "name": "PodiumOuRien",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 2
+                    "score": 2,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053570"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077751045202255872",
                         "name": "ploxiFANS",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 0
+                    "score": 0,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053579"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421055",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866593",
+            "round_id": "3077723222878421120",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:41:38+00:00",
+            "depth": 5,
+            "branch": "wb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077776766496628736",
+                        "name": "OSBLK",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421058"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077765954511773696",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421067"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053597",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053636",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T11:30:36+00:00",
+            "depth": 5,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077738508700729344",
+                        "name": "Peaky Blinders",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053600"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077744186710695936",
+                        "name": "Venture_eSport",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053606"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421085",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421124",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T09:54:09+00:00",
+            "depth": 5,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077759135681216512",
+                        "name": "EZ4K",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421088"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421094"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053615",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053636",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:37:43+00:00",
+            "depth": 5,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077733001141673984",
+                        "name": "DOGinLaN",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 6,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053618"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077789642304626688",
+                        "name": "TIM WHULA",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053624"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421103",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421124",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:53:43+00:00",
+            "depth": 5,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077773704748204032",
+                        "name": "Redblood",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421106"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421112"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421082",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421125",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:50:19+00:00",
+            "depth": 4,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077776766496628736",
+                        "name": "OSBLK",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421055"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077778748680617984",
+                        "name": "Team Claquée",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421085"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053594",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053637",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T13:02:37+00:00",
+            "depth": 4,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077751045202255872",
+                        "name": "ploxiFANS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053567"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077744186710695936",
+                        "name": "Venture_eSport",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 13,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053597"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053612",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053637",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T13:13:34+00:00",
+            "depth": 4,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077736642244108288",
+                        "name": "REDFOX",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053546"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077789642304626688",
+                        "name": "TIM WHULA",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053615"
+                }
+            ]
+        },
+        {
+            "id": "3077723222878421100",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077723222240886784",
+            "group_id": "3077723222844866594",
+            "round_id": "3077723222878421125",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T10:53:43+00:00",
+            "depth": 4,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077761871238299648",
+                        "name": "AWLESS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421034"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077763656510947328",
+                        "name": "Getting Meuffed",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421103"
                 }
             ]
         },
         {
             "id": "3077722670684053543",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077722670113628160",
             "group_id": "3077722670650499105",
             "round_id": "3077722670684053633",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T14:17:41+00:00",
-            "public_note": "BO 3 :\r\n10-16\r\n6-16",
-            "private_note": null,
-            "report_closed": true,
+            "depth": 3,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077728491225915392",
                         "name": "POCEBLO",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 0
+                    "score": 0,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053546"
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077730484902060032",
                         "name": "PodiumOuRien",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 2
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053603",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053634",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:41:31+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077751759018672128",
-                        "name": "MAN IN WHITE",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 12
-                },
-                {
-                    "number": 2,
                     "position": 1,
-                    "participant": {
-                        "id": "3077755148812476416",
-                        "name": "reDEAFusion",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053609",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053634",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:40:32+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077748725048713216",
-                        "name": "x0.25",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 19
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077756548565942272",
-                        "name": "dogtrainers",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053621",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053634",
-            "number": 3,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:40:04+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077747368944910336",
-                        "name": "Mario Mousse",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 14
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077733001141673984",
-                        "name": "DOGinLaN",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053627",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053634",
-            "number": 4,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:20:13+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077739919496003584",
-                        "name": "KebaBEAST",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 6
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077742000446980096",
-                        "name": "Retour Samedi ou Dimanche",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053600",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053635",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T09:24:53+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077738508700729344",
-                        "name": "Peaky Blinders",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077755148812476416",
-                        "name": "reDEAFusion",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 1
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053606",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053635",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T01:59:40+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077744186710695936",
-                        "name": "Venture_eSport",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077748725048713216",
-                        "name": "x0.25",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 3
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053618",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053635",
-            "number": 3,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T02:16:02+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077732115213631488",
-                        "name": "PipePingouin",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 14
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077733001141673984",
-                        "name": "DOGinLaN",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053624",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053635",
-            "number": 4,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T02:16:29+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077789642304626688",
-                        "name": "TIM WHULA",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077742000446980096",
-                        "name": "Retour Samedi ou Dimanche",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 8
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053597",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053636",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T11:30:36+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077738508700729344",
-                        "name": "Peaky Blinders",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 14
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077744186710695936",
-                        "name": "Venture_eSport",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053615",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053636",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T10:37:43+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077733001141673984",
-                        "name": "DOGinLaN",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 6
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077789642304626688",
-                        "name": "TIM WHULA",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053594",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053637",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T13:02:37+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077751045202255872",
-                        "name": "ploxiFANS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077744186710695936",
-                        "name": "Venture_eSport",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 13
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053612",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053637",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T13:13:34+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077736642244108288",
-                        "name": "REDFOX",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 5
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077789642304626688",
-                        "name": "TIM WHULA",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053591",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053638",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T14:49:46+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077751045202255872",
-                        "name": "ploxiFANS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077789642304626688",
-                        "name": "TIM WHULA",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 10
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053588",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499106",
-            "round_id": "3077722670684053639",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T16:18:58+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077728491225915392",
-                        "name": "POCEBLO",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 19
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077751045202255872",
-                        "name": "ploxiFANS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 15
-                }
-            ]
-        },
-        {
-            "id": "3077722670684053540",
-            "stage_id": "3077722670113628160",
-            "group_id": "3077722670650499107",
-            "round_id": "3077722670684053640",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-02T07:51:54+00:00",
-            "public_note": "BO2:\r\n1 map d'avance pour PodiumOuRien",
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077730484902060032",
-                        "name": "PodiumOuRien",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 2
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077728491225915392",
-                        "name": "POCEBLO",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 0
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421040",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:25:52+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077761871238299648",
-                        "name": "AWLESS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077791812101971968",
-                        "name": "Just Dew It",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 1
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421043",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:55:32+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077775379055443968",
-                        "name": "Olympe",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077780647797579776",
-                        "name": "SymbiOz",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 7
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421049",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 3,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:33:37+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077768619205672960",
-                        "name": "Y",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077788356807712768",
-                        "name": "Rxspect",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 4
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421052",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 4,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T23:46:43+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077773704748204032",
-                        "name": "Redblood",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077782885788434432",
-                        "name": "Legendary ESIEA Masters",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 19
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421061",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 5,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:38:09+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077763656510947328",
-                        "name": "Getting Meuffed",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077791037336322048",
-                        "name": "Carry me plz",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 1
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421064",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 6,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:52:39+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077776766496628736",
-                        "name": "OSBLK",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077778748680617984",
-                        "name": "Team Claquée",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 10
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421070",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 7,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:34:57+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077765954511773696",
-                        "name": "ZOOLAND",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077759135681216512",
-                        "name": "EZ4K",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 10
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421073",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421118",
-            "number": 8,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:27:08+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077771351172718592",
-                        "name": "UR1KAN",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": null,
-                    "forfeit": true,
-                    "score": null
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077785602891644928",
-                        "name": "sans pression",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": null
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421037",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421119",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:21:14+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077761871238299648",
-                        "name": "AWLESS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077775379055443968",
-                        "name": "Olympe",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 12
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421046",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421119",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:55:06+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077768619205672960",
-                        "name": "Y",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077782885788434432",
-                        "name": "Legendary ESIEA Masters",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 9
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421058",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421119",
-            "number": 3,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:11:05+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077763656510947328",
-                        "name": "Getting Meuffed",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 5
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077776766496628736",
-                        "name": "OSBLK",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421067",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421119",
-            "number": 4,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T23:31:17+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077765954511773696",
-                        "name": "ZOOLAND",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077785602891644928",
-                        "name": "sans pression",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 1
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421034",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421120",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T09:20:56+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077761871238299648",
-                        "name": "AWLESS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": null,
-                    "forfeit": true,
-                    "score": null
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077768619205672960",
-                        "name": "Y",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": null
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421055",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866593",
-            "round_id": "3077723222878421120",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T09:41:38+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077776766496628736",
-                        "name": "OSBLK",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 4
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077765954511773696",
-                        "name": "ZOOLAND",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
+                    "score": 2,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053567"
                 }
             ]
         },
         {
             "id": "3077723222878421031",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077723222240886784",
             "group_id": "3077723222844866593",
             "round_id": "3077723222878421121",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T12:20:00+00:00",
-            "public_note": "BO 3 :\r\n16 - 7\r\n16 - 11",
-            "private_note": null,
-            "report_closed": true,
+            "depth": 3,
+            "branch": "wb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077768619205672960",
                         "name": "Y",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 2
+                    "score": 2,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421034"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077765954511773696",
                         "name": "ZOOLAND",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 0
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421091",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421122",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T22:38:20+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077771351172718592",
-                        "name": "UR1KAN",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": null,
-                    "forfeit": true,
-                    "score": null
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077759135681216512",
-                        "name": "EZ4K",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": null
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421097",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421122",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-11-30T23:51:41+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077778748680617984",
-                        "name": "Team Claquée",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077791037336322048",
-                        "name": "Carry me plz",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 3
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421109",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421122",
-            "number": 3,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:12:07+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077773704748204032",
-                        "name": "Redblood",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": null
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077788356807712768",
-                        "name": "Rxspect",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": null,
-                    "forfeit": true,
-                    "score": null
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421115",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421122",
-            "number": 4,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T00:20:55+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077780647797579776",
-                        "name": "SymbiOz",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077791812101971968",
-                        "name": "Just Dew It",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 1
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421088",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421123",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T02:17:00+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077782885788434432",
-                        "name": "Legendary ESIEA Masters",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077759135681216512",
-                        "name": "EZ4K",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 19
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421094",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421123",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T02:28:42+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077775379055443968",
-                        "name": "Olympe",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 14
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077778748680617984",
-                        "name": "Team Claquée",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421106",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421123",
-            "number": 3,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T01:10:32+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077785602891644928",
-                        "name": "sans pression",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 5
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077773704748204032",
-                        "name": "Redblood",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421112",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421123",
-            "number": 4,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T09:43:11+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077763656510947328",
-                        "name": "Getting Meuffed",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077780647797579776",
-                        "name": "SymbiOz",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 4
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421085",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421124",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T09:54:09+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077759135681216512",
-                        "name": "EZ4K",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": null,
-                    "forfeit": true,
-                    "score": null
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077778748680617984",
-                        "name": "Team Claquée",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": null
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421103",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421124",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T10:53:43+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077773704748204032",
-                        "name": "Redblood",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 7
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077763656510947328",
-                        "name": "Getting Meuffed",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421082",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421125",
-            "number": 1,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T10:50:19+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077776766496628736",
-                        "name": "OSBLK",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": 16
-                },
-                {
-                    "number": 2,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077778748680617984",
-                        "name": "Team Claquée",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "loss",
-                    "forfeit": false,
-                    "score": 4
-                }
-            ]
-        },
-        {
-            "id": "3077723222878421100",
-            "stage_id": "3077723222240886784",
-            "group_id": "3077723222844866594",
-            "round_id": "3077723222878421125",
-            "number": 2,
-            "type": "duel",
-            "status": "completed",
-            "settings": {
-                "match_format": null
-            },
-            "scheduled_datetime": null,
-            "played_at": "2019-12-01T10:53:43+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
-            "opponents": [
-                {
-                    "number": 1,
-                    "position": 2,
-                    "participant": {
-                        "id": "3077761871238299648",
-                        "name": "AWLESS",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": null,
-                    "forfeit": true,
-                    "score": null
-                },
-                {
-                    "number": 2,
-                    "position": 1,
-                    "participant": {
-                        "id": "3077763656510947328",
-                        "name": "Getting Meuffed",
-                        "custom_user_identifier": null,
-                        "custom_fields": {}
-                    },
-                    "rank": null,
-                    "result": "win",
-                    "forfeit": false,
-                    "score": null
+                    "score": 0,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421055"
                 }
             ]
         },
         {
             "id": "3077723222878421079",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077723222240886784",
             "group_id": "3077723222844866594",
             "round_id": "3077723222878421126",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T12:43:09+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 3,
+            "branch": "lb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077776766496628736",
                         "name": "OSBLK",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 9
+                    "score": 9,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421082"
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077763656510947328",
                         "name": "Getting Meuffed",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421100"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053591",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053638",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T14:49:46+00:00",
+            "depth": 3,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077751045202255872",
+                        "name": "ploxiFANS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053594"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077789642304626688",
+                        "name": "TIM WHULA",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 10,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053612"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053588",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499106",
+            "round_id": "3077722670684053639",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-01T16:18:58+00:00",
+            "depth": 2,
+            "branch": "lb",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077728491225915392",
+                        "name": "POCEBLO",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 19,
+                    "source_type": "loser",
+                    "source_node_id": "3077722670684053543"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077751045202255872",
+                        "name": "ploxiFANS",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 15,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053591"
                 }
             ]
         },
         {
             "id": "3077723222878421076",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077723222240886784",
             "group_id": "3077723222844866594",
             "round_id": "3077723222878421127",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T13:56:12+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 2,
+            "branch": "lb",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 2,
                     "participant": {
                         "id": "3077765954511773696",
                         "name": "ZOOLAND",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 14
+                    "score": 14,
+                    "source_type": "loser",
+                    "source_node_id": "3077723222878421031"
                 },
                 {
                     "number": 2,
-                    "position": 1,
                     "participant": {
                         "id": "3077763656510947328",
                         "name": "Getting Meuffed",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 16
+                    "score": 16,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421079"
                 }
             ]
         },
         {
             "id": "3077723222878421028",
+            "tournament_id": "3077713703558864896",
             "stage_id": "3077723222240886784",
             "group_id": "3077723222844866595",
             "round_id": "3077723222878421128",
             "number": 1,
             "type": "duel",
             "status": "completed",
-            "settings": {
-                "match_format": null
-            },
             "scheduled_datetime": null,
             "played_at": "2019-12-01T15:45:37+00:00",
-            "public_note": null,
-            "private_note": null,
-            "report_closed": true,
+            "depth": 1,
+            "branch": "gf",
             "opponents": [
                 {
                     "number": 1,
-                    "position": 1,
                     "participant": {
                         "id": "3077768619205672960",
                         "name": "Y",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 1,
                     "rank": null,
                     "result": "win",
                     "forfeit": false,
-                    "score": 22
+                    "score": 22,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421031"
                 },
                 {
                     "number": 2,
-                    "position": 2,
                     "participant": {
                         "id": "3077763656510947328",
                         "name": "Getting Meuffed",
                         "custom_user_identifier": null,
                         "custom_fields": {}
                     },
+                    "position": 2,
                     "rank": null,
                     "result": "loss",
                     "forfeit": false,
-                    "score": 20
+                    "score": 20,
+                    "source_type": "winner",
+                    "source_node_id": "3077723222878421076"
+                }
+            ]
+        },
+        {
+            "id": "3077722670684053540",
+            "tournament_id": "3077713703558864896",
+            "stage_id": "3077722670113628160",
+            "group_id": "3077722670650499107",
+            "round_id": "3077722670684053640",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "scheduled_datetime": null,
+            "played_at": "2019-12-02T07:51:54+00:00",
+            "depth": 1,
+            "branch": "gf",
+            "opponents": [
+                {
+                    "number": 1,
+                    "participant": {
+                        "id": "3077730484902060032",
+                        "name": "PodiumOuRien",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 1,
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 2,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053543"
+                },
+                {
+                    "number": 2,
+                    "participant": {
+                        "id": "3077728491225915392",
+                        "name": "POCEBLO",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
+                    "position": 2,
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 0,
+                    "source_type": "winner",
+                    "source_node_id": "3077722670684053588"
                 }
             ]
         }

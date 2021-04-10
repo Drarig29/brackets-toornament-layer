@@ -93,7 +93,10 @@ export function idFactory() {
  * 
  * @param data Data coming from Toornament put in a single object.
  */
-export function convertData(data: toornament.RootObject): ConvertResult {
+export function convertData(data: {
+    stages: toornament.Stage[];
+    matches: toornament.Match[];
+}): ConvertResult {
     const db: Database = {
         stage: [],
         match: [],

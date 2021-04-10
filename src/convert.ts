@@ -124,6 +124,7 @@ export function idFactory(): {
  * @param data.matches List of matches.
  */
 export function convertData(data: {
+    tournament_id: number,
     stages: toornament.Stage[];
     matches: toornament.Match[];
 }): ConvertResult {
@@ -189,11 +190,12 @@ export function convertData(data: {
     return {
         database: db,
         mappings: {
-            participants: participantId.getMapping(),
+            tournament: {[data.tournament_id]: 0},
             stages: stageId.getMapping(),
             groups: groupId.getMapping(),
             rounds: roundId.getMapping(),
             matches: matchId.getMapping(),
+            participants: participantId.getMapping(),
         },
     };
 }

@@ -49,8 +49,8 @@ export namespace toornament {
         result: Result | null;
         forfeit: boolean;
         score?: number | null;
+        source_node_id?: string | null;
     }
-
 
     export interface Match {
         id: string;

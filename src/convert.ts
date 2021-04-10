@@ -86,11 +86,13 @@ export function convertParticipant(id: number, participant: toornament.Participa
  * Converts a Toornament participant result.
  * 
  * @param id ID of the participant.
+ * @param source Source of the participant.
  * @param result Result of the participant.
  */
-export function convertParticipantResult(id: number | null, result: toornament.Opponent): ParticipantResult {
+export function convertParticipantResult(id: number | null, source: number | undefined, result: toornament.Opponent): ParticipantResult {
     return {
         id,
+        position: source,
         score: result.score !== null ? result.score : undefined,
         forfeit: result.forfeit || undefined,
         result: result.result || undefined,
@@ -120,6 +122,7 @@ export function idFactory(): {
  * Converts Toornament data to brackets-viewer data.
  * 
  * @param data Data coming from Toornament put in a single object.
+ * @param data.tournament_id ID of the tournament.
  * @param data.stages List of stages.
  * @param data.matches List of matches.
  */
@@ -155,6 +158,21 @@ export function convertData(data: {
     const groupId = idFactory();
     const roundId = idFactory();
 
+    /**
+     * Finds the source position of a participant based on the the source match number.
+     * 
+     * @param result Result of the participant.
+     */
+    function findSourcePosition(result: toornament.Opponent): number | undefined {
+        if (!result.source_node_id)
+            return undefined;
+
+        const sourceMatchId = result.source_node_id;
+        const sourceMatch = db.match.find(match => match.id === matchId(sourceMatchId));
+        if (!sourceMatch) throw Error('Source match not found.');
+        return sourceMatch.number;
+    }
+
     for (const match of data.matches) {
         const [id1, id2] = match.opponents.map(opponent => opponent.participant?.id !== undefined ? participantId(opponent.participant.id) : null);
 
@@ -180,8 +198,8 @@ export function convertData(data: {
             number: match.number,
             child_count: 0,
             status: convertMatchStatus(match.status),
-            opponent1: convertParticipantResult(id1, match.opponents[0]),
-            opponent2: convertParticipantResult(id2, match.opponents[1]),
+            opponent1: convertParticipantResult(id1, findSourcePosition(match.opponents[0]), match.opponents[0]),
+            opponent2: convertParticipantResult(id2, findSourcePosition(match.opponents[1]), match.opponents[1]),
         });
     }
 
@@ -190,7 +208,7 @@ export function convertData(data: {
     return {
         database: db,
         mappings: {
-            tournament: {[data.tournament_id]: 0},
+            tournament: { [data.tournament_id]: 0 },
             stages: stageId.getMapping(),
             groups: groupId.getMapping(),
             rounds: roundId.getMapping(),

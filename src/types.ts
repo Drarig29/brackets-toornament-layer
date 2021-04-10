@@ -1,5 +1,10 @@
 import { GrandFinalType, Match, MatchGame, Participant, Result, Stage } from 'brackets-model';
 
+export interface ConvertResult {
+    database: Database,
+    mappings: Record<string, Mapping>,
+}
+
 export interface Database {
     stage: Stage[],
     match: Match[],
@@ -7,24 +12,9 @@ export interface Database {
     participant: Participant[],
 }
 
+export type Mapping = { [id: string]: number };
+
 export namespace toornament {
-
-    export interface CalculatorOptions {
-        win: number;
-        draw: number;
-        loss: number;
-        forfeit?: number;
-    }
-
-    export interface Calculator {
-        name: string;
-        options: CalculatorOptions;
-    }
-
-    export interface Tiebreaker {
-        name: string;
-        options: unknown[];
-    }
 
     export type PairingMethod = 'manual' | 'standard' | 'double_standard';
 

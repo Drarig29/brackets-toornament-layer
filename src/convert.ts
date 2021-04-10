@@ -1,5 +1,5 @@
 import { Participant, ParticipantResult, RoundRobinMode, StageSettings, StageType, Status } from 'brackets-model';
-import { Database, toornament } from './types';
+import { ConvertResult, Database, Mapping, toornament } from './types';
 
 /**
  * Converts a Toornament stage type.
@@ -77,12 +77,15 @@ export function convertParticipantResult(id: number | null, result: toornament.O
 
 export function idFactory() {
     let currentId = 0;
-    const ids: { [id: string]: number } = {};
+    const ids: Mapping = {};
 
-    return (id: string): number => {
+    const func = (id: string): number => {
         if (ids[id] === undefined) ids[id] = currentId++;
         return ids[id];
-    }
+    };
+
+    func.getMapping = () => ids;
+    return func;
 }
 
 /**
@@ -90,7 +93,7 @@ export function idFactory() {
  * 
  * @param data Data coming from Toornament put in a single object.
  */
-export function convertData(data: toornament.RootObject): Database {
+export function convertData(data: toornament.RootObject): ConvertResult {
     const db: Database = {
         stage: [],
         match: [],
@@ -141,7 +144,7 @@ export function convertData(data: toornament.RootObject): Database {
             group_id: groupId(match.group_id),
             round_id: roundId(match.round_id),
             number: match.number,
-            child_count: 0, // TODO: Also get match games with Toornament API
+            child_count: 0,
             status: convertMatchStatus(match.status),
             opponent1: convertParticipantResult(id1, match.opponents[0]),
             opponent2: convertParticipantResult(id2, match.opponents[1]),
@@ -150,5 +153,14 @@ export function convertData(data: toornament.RootObject): Database {
 
     Object.values(participants).forEach(participant => db.participant.push(participant));
 
-    return db;
+    return {
+        database: db,
+        mappings: {
+            participants: participantId.getMapping(),
+            stages: stageId.getMapping(),
+            groups: groupId.getMapping(),
+            rounds: roundId.getMapping(),
+            matches: matchId.getMapping(),
+        }
+    };
 }

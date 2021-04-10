@@ -3,7 +3,7 @@ import { convertData } from './convert';
 
 const data = readFileSync('toornament.json', { encoding: 'utf-8' });
 const matches = JSON.parse(data);
-const converted = convertData(matches);
-const database = JSON.stringify(converted, null, 4);
+const result = convertData(matches);
 
-writeFileSync('db.json', database);
+writeFileSync('db.json', JSON.stringify(result.database, null, 4));
+writeFileSync('mappings.json', JSON.stringify(result.mappings, null, 4));

@@ -6,9 +6,9 @@ import {
     convertRoundRobinMode,
     convertStageSettings,
     convertStageType,
-} from "./convert";
+} from './convert';
 
-import { Database, toornament } from "./types";
+import { Database, toornament } from './types';
 
 export {
     convertData,
@@ -20,4 +20,4 @@ export {
     convertStageType,
     Database,
     toornament,
-}
+};

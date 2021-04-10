@@ -18,6 +18,11 @@ export function convertStageType(type: toornament.StageType): StageType {
     }
 }
 
+/**
+ * Converts Toornament stage settings.
+ * 
+ * @param settings Settings of the stage.
+ */
 export function convertStageSettings(settings: toornament.StageSettings): StageSettings {
     return {
         size: settings.size,
@@ -26,9 +31,14 @@ export function convertStageSettings(settings: toornament.StageSettings): StageS
         skipFirstRound: settings.skip_round1,
         consolationFinal: settings.third_decider,
         roundRobinMode: convertRoundRobinMode(settings.pairing_method),
-    }
+    };
 }
 
+/**
+ * Converts a Toornament round-robin mode.
+ * 
+ * @param method Pairing method.
+ */
 export function convertRoundRobinMode(method: toornament.PairingMethod): RoundRobinMode | undefined {
     switch (method) {
         case 'standard':
@@ -58,24 +68,42 @@ export function convertMatchStatus(status: toornament.Status): Status {
     }
 }
 
+/**
+ * Converts a Toornament participant.
+ * 
+ * @param id ID of the participant.
+ * @param participant Toornament participant.
+ */
 export function convertParticipant(id: number, participant: toornament.Participant): Participant {
     return {
         id,
         name: participant.name,
         tournament_id: 0,
-    }
+    };
 }
 
+/**
+ * Converts a Toornament participant result.
+ * 
+ * @param id ID of the participant.
+ * @param result Result of the participant.
+ */
 export function convertParticipantResult(id: number | null, result: toornament.Opponent): ParticipantResult {
     return {
         id,
         score: result.score !== null ? result.score : undefined,
         forfeit: result.forfeit || undefined,
         result: result.result || undefined,
-    }
+    };
 }
 
-export function idFactory() {
+/**
+ * Creates an ID factory, which returns the existing ID or a new incremental ID corresponding to a Toornament ID.
+ */
+export function idFactory(): {
+    (id: string): number,
+    getMapping: () => Mapping,
+} {
     let currentId = 0;
     const ids: Mapping = {};
 
@@ -84,7 +112,7 @@ export function idFactory() {
         return ids[id];
     };
 
-    func.getMapping = () => ids;
+    func.getMapping = (): Mapping => ids;
     return func;
 }
 
@@ -92,6 +120,8 @@ export function idFactory() {
  * Converts Toornament data to brackets-viewer data.
  * 
  * @param data Data coming from Toornament put in a single object.
+ * @param data.stages List of stages.
+ * @param data.matches List of matches.
  */
 export function convertData(data: {
     stages: toornament.Stage[];
@@ -131,14 +161,14 @@ export function convertData(data: {
             const opponent1 = convertParticipant(id1, match.opponents[0].participant);
 
             if (!participants[opponent1.id])
-                participants[opponent1.id] = opponent1
+                participants[opponent1.id] = opponent1;
         }
 
         if (id2 !== null && match.opponents[1].participant) {
             const opponent2 = convertParticipant(id2, match.opponents[1].participant);
 
             if (!participants[opponent2.id])
-                participants[opponent2.id] = opponent2
+                participants[opponent2.id] = opponent2;
         }
 
         db.match.push({
@@ -164,6 +194,6 @@ export function convertData(data: {
             groups: groupId.getMapping(),
             rounds: roundId.getMapping(),
             matches: matchId.getMapping(),
-        }
+        },
     };
 }

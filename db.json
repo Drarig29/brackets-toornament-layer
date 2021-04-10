@@ -1262,11 +1262,13 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
+                "position": 1,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 27,
+                "position": 2,
                 "score": 12,
                 "result": "loss"
             }
@@ -1281,11 +1283,13 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
+                "position": 1,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 6,
+                "position": 2,
                 "score": 9,
                 "result": "loss"
             }
@@ -1300,11 +1304,13 @@
             "status": 4,
             "opponent1": {
                 "id": 16,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 20,
+                "position": 4,
                 "score": 9,
                 "result": "loss"
             }
@@ -1319,11 +1325,13 @@
             "status": 4,
             "opponent1": {
                 "id": 15,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 9,
+                "position": 4,
                 "score": 9,
                 "result": "loss"
             }
@@ -1338,11 +1346,13 @@
             "status": 4,
             "opponent1": {
                 "id": 7,
+                "position": 5,
                 "score": 5,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 31,
+                "position": 6,
                 "score": 16,
                 "result": "win"
             }
@@ -1357,11 +1367,13 @@
             "status": 4,
             "opponent1": {
                 "id": 4,
+                "position": 5,
                 "score": 22,
                 "result": "win"
             },
             "opponent2": {
                 "id": 30,
+                "position": 6,
                 "score": 18,
                 "result": "loss"
             }
@@ -1376,11 +1388,13 @@
             "status": 4,
             "opponent1": {
                 "id": 11,
+                "position": 7,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 13,
+                "position": 8,
                 "score": 1,
                 "result": "loss"
             }
@@ -1395,11 +1409,13 @@
             "status": 4,
             "opponent1": {
                 "id": 8,
+                "position": 7,
                 "score": 13,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 14,
+                "position": 8,
                 "score": 16,
                 "result": "win"
             }
@@ -1414,10 +1430,12 @@
             "status": 4,
             "opponent1": {
                 "id": 19,
+                "position": 8,
                 "forfeit": true
             },
             "opponent2": {
                 "id": 21,
+                "position": 7,
                 "result": "win"
             }
         },
@@ -1431,11 +1449,13 @@
             "status": 4,
             "opponent1": {
                 "id": 18,
+                "position": 8,
                 "score": 12,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 22,
+                "position": 7,
                 "score": 16,
                 "result": "win"
             }
@@ -1450,11 +1470,13 @@
             "status": 4,
             "opponent1": {
                 "id": 1,
+                "position": 6,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 25,
+                "position": 5,
                 "score": 3,
                 "result": "loss"
             }
@@ -1469,11 +1491,13 @@
             "status": 4,
             "opponent1": {
                 "id": 2,
+                "position": 6,
                 "score": 19,
                 "result": "win"
             },
             "opponent2": {
                 "id": 26,
+                "position": 5,
                 "score": 16,
                 "result": "loss"
             }
@@ -1488,11 +1512,13 @@
             "status": 4,
             "opponent1": {
                 "id": 10,
+                "position": 4,
                 "score": 14,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 12,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             }
@@ -1507,10 +1533,12 @@
             "status": 4,
             "opponent1": {
                 "id": 23,
+                "position": 4,
                 "result": "win"
             },
             "opponent2": {
                 "id": 17,
+                "position": 3,
                 "forfeit": true
             }
         },
@@ -1524,11 +1552,13 @@
             "status": 4,
             "opponent1": {
                 "id": 5,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 29,
+                "position": 1,
                 "score": 1,
                 "result": "loss"
             }
@@ -1543,11 +1573,13 @@
             "status": 4,
             "opponent1": {
                 "id": 24,
+                "position": 2,
                 "score": 6,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 28,
+                "position": 1,
                 "score": 16,
                 "result": "win"
             }
@@ -1562,11 +1594,13 @@
             "status": 4,
             "opponent1": {
                 "id": 20,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 22,
+                "position": 1,
                 "score": 1,
                 "result": "loss"
             }
@@ -1581,11 +1615,13 @@
             "status": 4,
             "opponent1": {
                 "id": 9,
+                "position": 2,
                 "score": 16,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 21,
+                "position": 1,
                 "score": 19,
                 "result": "win"
             }
@@ -1600,11 +1636,13 @@
             "status": 4,
             "opponent1": {
                 "id": 27,
+                "position": 1,
                 "score": 14,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 1,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             }
@@ -1619,11 +1657,13 @@
             "status": 4,
             "opponent1": {
                 "id": 6,
+                "position": 1,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 2,
+                "position": 2,
                 "score": 3,
                 "result": "loss"
             }
@@ -1638,11 +1678,13 @@
             "status": 4,
             "opponent1": {
                 "id": 13,
+                "position": 4,
                 "score": 5,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 23,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             }
@@ -1657,11 +1699,13 @@
             "status": 4,
             "opponent1": {
                 "id": 8,
+                "position": 4,
                 "score": 14,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 12,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             }
@@ -1676,11 +1720,13 @@
             "status": 4,
             "opponent1": {
                 "id": 7,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 5,
+                "position": 4,
                 "score": 4,
                 "result": "loss"
             }
@@ -1695,11 +1741,13 @@
             "status": 4,
             "opponent1": {
                 "id": 30,
+                "position": 3,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 28,
+                "position": 4,
                 "score": 8,
                 "result": "loss"
             }
@@ -1714,10 +1762,12 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
+                "position": 1,
                 "forfeit": true
             },
             "opponent2": {
                 "id": 15,
+                "position": 2,
                 "result": "win"
             }
         },
@@ -1731,11 +1781,13 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
+                "position": 1,
                 "score": 2,
                 "result": "win"
             },
             "opponent2": {
                 "id": 16,
+                "position": 2,
                 "score": 1,
                 "result": "loss"
             }
@@ -1750,11 +1802,13 @@
             "status": 4,
             "opponent1": {
                 "id": 4,
+                "position": 3,
                 "score": 2,
                 "result": "win"
             },
             "opponent2": {
                 "id": 14,
+                "position": 4,
                 "score": 0,
                 "result": "loss"
             }
@@ -1769,11 +1823,13 @@
             "status": 4,
             "opponent1": {
                 "id": 31,
+                "position": 3,
                 "score": 4,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 11,
+                "position": 4,
                 "score": 16,
                 "result": "win"
             }
@@ -1788,11 +1844,13 @@
             "status": 4,
             "opponent1": {
                 "id": 20,
+                "position": 1,
                 "score": 14,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 6,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             }
@@ -1807,10 +1865,12 @@
             "status": 4,
             "opponent1": {
                 "id": 21,
+                "position": 1,
                 "forfeit": true
             },
             "opponent2": {
                 "id": 1,
+                "position": 2,
                 "result": "win"
             }
         },
@@ -1824,11 +1884,13 @@
             "status": 4,
             "opponent1": {
                 "id": 12,
+                "position": 3,
                 "score": 6,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 30,
+                "position": 4,
                 "score": 16,
                 "result": "win"
             }
@@ -1843,11 +1905,13 @@
             "status": 4,
             "opponent1": {
                 "id": 23,
+                "position": 3,
                 "score": 7,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 7,
+                "position": 4,
                 "score": 16,
                 "result": "win"
             }
@@ -1862,11 +1926,13 @@
             "status": 4,
             "opponent1": {
                 "id": 31,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 1,
+                "position": 1,
                 "score": 4,
                 "result": "loss"
             }
@@ -1881,11 +1947,13 @@
             "status": 4,
             "opponent1": {
                 "id": 14,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 6,
+                "position": 1,
                 "score": 13,
                 "result": "loss"
             }
@@ -1900,11 +1968,13 @@
             "status": 4,
             "opponent1": {
                 "id": 16,
+                "position": 1,
                 "score": 5,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 30,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             }
@@ -1919,10 +1989,12 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
+                "position": 1,
                 "forfeit": true
             },
             "opponent2": {
                 "id": 7,
+                "position": 2,
                 "result": "win"
             }
         },
@@ -1936,11 +2008,13 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
+                "position": 1,
                 "score": 0,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 4,
+                "position": 2,
                 "score": 2,
                 "result": "win"
             }
@@ -1955,11 +2029,13 @@
             "status": 4,
             "opponent1": {
                 "id": 15,
+                "position": 1,
                 "score": 2,
                 "result": "win"
             },
             "opponent2": {
                 "id": 11,
+                "position": 2,
                 "score": 0,
                 "result": "loss"
             }
@@ -1974,11 +2050,13 @@
             "status": 4,
             "opponent1": {
                 "id": 31,
+                "position": 1,
                 "score": 9,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 7,
+                "position": 2,
                 "score": 16,
                 "result": "win"
             }
@@ -1993,11 +2071,13 @@
             "status": 4,
             "opponent1": {
                 "id": 14,
+                "position": 1,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 30,
+                "position": 2,
                 "score": 10,
                 "result": "loss"
             }
@@ -2012,11 +2092,13 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
+                "position": 1,
                 "score": 19,
                 "result": "win"
             },
             "opponent2": {
                 "id": 14,
+                "position": 1,
                 "score": 15,
                 "result": "loss"
             }
@@ -2031,11 +2113,13 @@
             "status": 4,
             "opponent1": {
                 "id": 11,
+                "position": 1,
                 "score": 14,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 7,
+                "position": 1,
                 "score": 16,
                 "result": "win"
             }
@@ -2050,11 +2134,13 @@
             "status": 4,
             "opponent1": {
                 "id": 15,
+                "position": 1,
                 "score": 22,
                 "result": "win"
             },
             "opponent2": {
                 "id": 7,
+                "position": 1,
                 "score": 20,
                 "result": "loss"
             }
@@ -2069,11 +2155,13 @@
             "status": 4,
             "opponent1": {
                 "id": 4,
+                "position": 1,
                 "score": 2,
                 "result": "win"
             },
             "opponent2": {
                 "id": 0,
+                "position": 1,
                 "score": 0,
                 "result": "loss"
             }

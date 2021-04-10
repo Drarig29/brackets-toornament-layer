@@ -15,7 +15,7 @@
         {
             "id": 1,
             "tournament_id": 0,
-            "name": "Tournoi Elite",
+            "name": "Tournoi Amateur",
             "type": "double_elimination",
             "number": 2,
             "settings": {
@@ -27,7 +27,7 @@
         {
             "id": 2,
             "tournament_id": 0,
-            "name": "Tournoi Amateur",
+            "name": "Tournoi Elite",
             "type": "double_elimination",
             "number": 3,
             "settings": {
@@ -53,7 +53,7 @@
             },
             "opponent2": {
                 "id": 1,
-                "score": 9,
+                "score": 8,
                 "result": "loss"
             }
         },
@@ -67,12 +67,10 @@
             "status": 4,
             "opponent1": {
                 "id": 2,
-                "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 3,
-                "score": 12,
                 "result": "loss"
             }
         },
@@ -86,12 +84,10 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
-                "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 3,
-                "score": 6,
                 "result": "loss"
             }
         },
@@ -105,7 +101,7 @@
             "status": 4,
             "opponent1": {
                 "id": 1,
-                "score": 4,
+                "score": 11,
                 "result": "loss"
             },
             "opponent2": {
@@ -124,12 +120,12 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
-                "score": 16,
+                "score": 19,
                 "result": "win"
             },
             "opponent2": {
                 "id": 2,
-                "score": 10,
+                "score": 15,
                 "result": "loss"
             }
         },
@@ -143,13 +139,11 @@
             "status": 4,
             "opponent1": {
                 "id": 3,
-                "score": 16,
-                "result": "win"
+                "forfeit": true
             },
             "opponent2": {
                 "id": 1,
-                "score": 6,
-                "result": "loss"
+                "result": "win"
             }
         },
         {
@@ -167,7 +161,7 @@
             },
             "opponent2": {
                 "id": 5,
-                "score": 1,
+                "score": 0,
                 "result": "loss"
             }
         },
@@ -181,13 +175,13 @@
             "status": 4,
             "opponent1": {
                 "id": 6,
-                "score": 15,
-                "result": "draw"
+                "score": 16,
+                "result": "win"
             },
             "opponent2": {
                 "id": 7,
-                "score": 15,
-                "result": "draw"
+                "score": 7,
+                "result": "loss"
             }
         },
         {
@@ -205,7 +199,7 @@
             },
             "opponent2": {
                 "id": 7,
-                "score": 1,
+                "score": 4,
                 "result": "loss"
             }
         },
@@ -219,7 +213,7 @@
             "status": 4,
             "opponent1": {
                 "id": 5,
-                "score": 5,
+                "score": 2,
                 "result": "loss"
             },
             "opponent2": {
@@ -238,13 +232,13 @@
             "status": 4,
             "opponent1": {
                 "id": 4,
-                "score": 14,
+                "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 6,
-                "score": 8,
-                "forfeit": true
+                "score": 1,
+                "result": "loss"
             }
         },
         {
@@ -257,13 +251,11 @@
             "status": 4,
             "opponent1": {
                 "id": 7,
-                "score": 16,
                 "result": "win"
             },
             "opponent2": {
                 "id": 5,
-                "score": 11,
-                "result": "loss"
+                "forfeit": true
             }
         },
         {
@@ -273,16 +265,12 @@
             "round_id": 6,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 8,
-                "score": 16,
-                "result": "win"
+                "id": 8
             },
             "opponent2": {
-                "id": 9,
-                "score": 7,
-                "result": "loss"
+                "id": null
             }
         },
         {
@@ -294,13 +282,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 10,
+                "id": 9,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 11,
-                "score": 3,
+                "id": 10,
+                "score": 7,
                 "result": "loss"
             }
         },
@@ -318,8 +306,8 @@
                 "result": "win"
             },
             "opponent2": {
-                "id": 11,
-                "score": 9,
+                "id": 10,
+                "score": 3,
                 "result": "loss"
             }
         },
@@ -330,16 +318,12 @@
             "round_id": 7,
             "number": 2,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 9,
-                "score": 5,
-                "result": "loss"
+                "id": null
             },
             "opponent2": {
-                "id": 10,
-                "score": 16,
-                "result": "win"
+                "id": 9
             }
         },
         {
@@ -356,8 +340,8 @@
                 "result": "win"
             },
             "opponent2": {
-                "id": 10,
-                "score": 12,
+                "id": 9,
+                "score": 3,
                 "result": "loss"
             }
         },
@@ -368,16 +352,12 @@
             "round_id": 8,
             "number": 2,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 11,
-                "score": 16,
-                "result": "win"
+                "id": 10
             },
             "opponent2": {
-                "id": 9,
-                "score": 11,
-                "result": "loss"
+                "id": null
             }
         },
         {
@@ -387,16 +367,12 @@
             "round_id": 9,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 12,
-                "score": 16,
-                "result": "win"
+                "id": 11
             },
             "opponent2": {
-                "id": 13,
-                "score": 4,
-                "result": "loss"
+                "id": null
             }
         },
         {
@@ -408,14 +384,14 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 14,
-                "score": 16,
-                "result": "win"
+                "id": 12,
+                "score": 23,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 15,
-                "score": 8,
-                "result": "loss"
+                "id": 13,
+                "score": 25,
+                "result": "win"
             }
         },
         {
@@ -425,16 +401,12 @@
             "round_id": 10,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 12,
-                "score": 16,
-                "result": "win"
+                "id": 11
             },
             "opponent2": {
-                "id": 15,
-                "score": 7,
-                "result": "loss"
+                "id": 13
             }
         },
         {
@@ -444,16 +416,12 @@
             "round_id": 10,
             "number": 2,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 13,
-                "score": 1,
-                "result": "loss"
+                "id": null
             },
             "opponent2": {
-                "id": 14,
-                "score": 16,
-                "result": "win"
+                "id": 12
             }
         },
         {
@@ -463,16 +431,12 @@
             "round_id": 11,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 12,
-                "score": 16,
-                "result": "win"
+                "id": 11
             },
             "opponent2": {
-                "id": 14,
-                "score": 7,
-                "result": "loss"
+                "id": 12
             }
         },
         {
@@ -482,16 +446,12 @@
             "round_id": 11,
             "number": 2,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 15,
-                "score": 16,
-                "result": "win"
+                "id": 13
             },
             "opponent2": {
-                "id": 13,
-                "score": 2,
-                "result": "loss"
+                "id": null
             }
         },
         {
@@ -501,16 +461,12 @@
             "round_id": 12,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 16,
-                "score": 16,
-                "result": "win"
+                "id": null
             },
             "opponent2": {
-                "id": 17,
-                "score": 0,
-                "result": "loss"
+                "id": 14
             }
         },
         {
@@ -522,14 +478,14 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 18,
-                "score": 16,
-                "result": "win"
+                "id": 15,
+                "score": 10,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 19,
-                "score": 4,
-                "result": "loss"
+                "id": 16,
+                "score": 16,
+                "result": "win"
             }
         },
         {
@@ -539,16 +495,12 @@
             "round_id": 13,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 16,
-                "score": 16,
-                "result": "win"
+                "id": null
             },
             "opponent2": {
-                "id": 19,
-                "score": 11,
-                "result": "loss"
+                "id": 16
             }
         },
         {
@@ -560,12 +512,12 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 17,
-                "score": 2,
+                "id": 14,
+                "score": 9,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 18,
+                "id": 15,
                 "score": 16,
                 "result": "win"
             }
@@ -577,16 +529,12 @@
             "round_id": 14,
             "number": 1,
             "child_count": 0,
-            "status": 4,
+            "status": 1,
             "opponent1": {
-                "id": 16,
-                "score": 15,
-                "result": "draw"
+                "id": null
             },
             "opponent2": {
-                "id": 18,
-                "score": 15,
-                "result": "draw"
+                "id": 15
             }
         },
         {
@@ -598,13 +546,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 19,
+                "id": 16,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 17,
-                "score": 5,
+                "id": 14,
+                "score": 14,
                 "result": "loss"
             }
         },
@@ -617,14 +565,14 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 20,
-                "score": 16,
-                "result": "win"
+                "id": 17,
+                "score": 7,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 21,
-                "score": 8,
-                "result": "loss"
+                "id": 18,
+                "score": 16,
+                "result": "win"
             }
         },
         {
@@ -636,14 +584,12 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 22,
-                "score": 16,
-                "result": "win"
+                "id": 19,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 23,
-                "score": 1,
-                "result": "loss"
+                "id": 20,
+                "result": "win"
             }
         },
         {
@@ -655,14 +601,14 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
+                "id": 17,
+                "score": 10,
+                "result": "loss"
+            },
+            "opponent2": {
                 "id": 20,
                 "score": 16,
                 "result": "win"
-            },
-            "opponent2": {
-                "id": 23,
-                "score": 1,
-                "result": "loss"
             }
         },
         {
@@ -674,14 +620,12 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 21,
-                "score": 9,
-                "result": "loss"
+                "id": 18,
+                "result": "win"
             },
             "opponent2": {
-                "id": 22,
-                "score": 16,
-                "result": "win"
+                "id": 19,
+                "result": "loss"
             }
         },
         {
@@ -693,14 +637,12 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 20,
-                "score": 15,
-                "result": "draw"
+                "id": 17,
+                "result": "win"
             },
             "opponent2": {
-                "id": 22,
-                "score": 15,
-                "result": "draw"
+                "id": 19,
+                "result": "loss"
             }
         },
         {
@@ -712,13 +654,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 23,
+                "id": 20,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 21,
-                "score": 9,
+                "id": 18,
+                "score": 11,
                 "result": "loss"
             }
         },
@@ -731,13 +673,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 24,
+                "id": 21,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 25,
-                "score": 2,
+                "id": 22,
+                "score": 7,
                 "result": "loss"
             }
         },
@@ -750,13 +692,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 26,
+                "id": 23,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 27,
-                "score": 7,
+                "id": 24,
+                "score": 5,
                 "result": "loss"
             }
         },
@@ -769,13 +711,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 24,
+                "id": 21,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 27,
-                "score": 9,
+                "id": 24,
+                "score": 8,
                 "result": "loss"
             }
         },
@@ -788,12 +730,12 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 25,
-                "score": 2,
+                "id": 22,
+                "score": 5,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 26,
+                "id": 23,
                 "score": 16,
                 "result": "win"
             }
@@ -807,14 +749,14 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 24,
-                "score": 16,
-                "result": "win"
+                "id": 21,
+                "score": 9,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 26,
-                "score": 11,
-                "result": "loss"
+                "id": 23,
+                "score": 16,
+                "result": "win"
             }
         },
         {
@@ -826,13 +768,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 27,
+                "id": 24,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 25,
-                "score": 6,
+                "id": 22,
+                "score": 5,
                 "result": "loss"
             }
         },
@@ -845,13 +787,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 28,
+                "id": 25,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 29,
-                "score": 0,
+                "id": 26,
+                "score": 4,
                 "result": "loss"
             }
         },
@@ -864,13 +806,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 30,
+                "id": 27,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 31,
-                "score": 3,
+                "id": 28,
+                "score": 12,
                 "result": "loss"
             }
         },
@@ -883,13 +825,13 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 28,
+                "id": 25,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 31,
-                "score": 6,
+                "id": 28,
+                "score": 14,
                 "result": "loss"
             }
         },
@@ -902,12 +844,12 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 29,
-                "score": 2,
+                "id": 26,
+                "score": 5,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 30,
+                "id": 27,
                 "score": 16,
                 "result": "win"
             }
@@ -921,14 +863,14 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 28,
-                "score": 7,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 30,
+                "id": 25,
                 "score": 16,
                 "result": "win"
+            },
+            "opponent2": {
+                "id": 27,
+                "score": 3,
+                "result": "loss"
             }
         },
         {
@@ -940,19 +882,19 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 31,
+                "id": 28,
                 "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 29,
-                "score": 1,
+                "id": 26,
+                "score": 10,
                 "result": "loss"
             }
         },
         {
             "id": 48,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 24,
             "number": 1,
@@ -960,151 +902,151 @@
             "status": 4,
             "opponent1": {
                 "id": 0,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 28,
-                "score": 12,
+                "id": 21,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 49,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 25,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 3,
-                "score": 16,
+                "id": 1,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 29,
-                "score": 1,
+                "id": null,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 50,
             "stage_id": 1,
-            "group_id": 8,
-            "round_id": 24,
+            "group_id": 9,
+            "round_id": 25,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 24,
-                "score": 14,
-                "result": "loss"
+                "id": 22,
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 6,
-                "score": 16,
-                "result": "win"
+                "id": null,
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 51,
             "stage_id": 2,
-            "group_id": 9,
-            "round_id": 25,
+            "group_id": 8,
+            "round_id": 24,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 27,
-                "score": 16,
+                "id": 25,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 5,
-                "score": 7,
+                "id": 6,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 52,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 24,
             "number": 3,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 12,
-                "score": 12,
-                "result": "loss"
+                "id": 13,
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 16,
-                "score": 16,
-                "result": "win"
+                "id": 18,
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 53,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 25,
             "number": 3,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 15,
-                "score": 16,
+                "id": 17,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 17,
-                "score": 4,
+                "id": null,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 54,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 24,
             "number": 4,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 20,
-                "score": 16,
+                "id": 16,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 10,
-                "score": 14,
+                "id": 9,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 55,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 25,
             "number": 4,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 23,
-                "score": 16,
-                "result": "loss"
+                "id": 28,
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 9,
-                "score": 19,
-                "result": "win"
+                "id": null,
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 56,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 24,
             "number": 5,
@@ -1112,18 +1054,18 @@
             "status": 4,
             "opponent1": {
                 "id": 4,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 26,
-                "score": 2,
+                "id": 27,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 57,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 25,
             "number": 5,
@@ -1131,75 +1073,75 @@
             "status": 4,
             "opponent1": {
                 "id": 7,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 25,
-                "score": 1,
+                "id": null,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 58,
             "stage_id": 2,
-            "group_id": 9,
-            "round_id": 25,
-            "number": 6,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 31,
-                "score": 16,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 1,
-                "score": 10,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 59,
-            "stage_id": 1,
             "group_id": 8,
             "round_id": 24,
             "number": 6,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 30,
-                "score": 16,
-                "result": "win"
+                "id": 23,
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
                 "id": 2,
-                "score": 14,
+                "score": 1,
+                "result": "win"
+            }
+        },
+        {
+            "id": 59,
+            "stage_id": 1,
+            "group_id": 9,
+            "round_id": 25,
+            "number": 6,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": 26,
+                "score": 1,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": null,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 60,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 25,
             "number": 7,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 11,
-                "score": 16,
+                "id": 14,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 21,
-                "score": 10,
+                "id": null,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 61,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 24,
             "number": 7,
@@ -1207,75 +1149,77 @@
             "status": 4,
             "opponent1": {
                 "id": 8,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 22,
-                "score": 11,
+                "id": 15,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 62,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 24,
             "number": 8,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 18,
-                "score": 11,
+                "id": 20,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 14,
-                "score": 16,
+                "id": 12,
+                "score": 1,
                 "result": "win"
             }
         },
         {
             "id": 63,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 25,
             "number": 8,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 19,
-                "forfeit": true
+                "id": 24,
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 13,
-                "result": "win"
+                "id": null,
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 64,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 26,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 3,
+                "id": 1,
                 "position": 1,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 27,
+                "id": 22,
                 "position": 2,
-                "score": 12,
-                "result": "loss"
+                "score": 2,
+                "result": "win"
             }
         },
         {
             "id": 65,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 27,
             "number": 1,
@@ -1284,82 +1228,61 @@
             "opponent1": {
                 "id": 0,
                 "position": 1,
-                "score": 16,
-                "result": "win"
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 6,
+                "id": 25,
                 "position": 2,
-                "score": 9,
-                "result": "loss"
+                "score": 2,
+                "result": "win"
             }
         },
         {
             "id": 66,
             "stage_id": 1,
-            "group_id": 8,
-            "round_id": 27,
+            "group_id": 9,
+            "round_id": 26,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 16,
+                "id": 17,
                 "position": 3,
-                "score": 16,
+                "score": 2,
                 "result": "win"
             },
             "opponent2": {
-                "id": 20,
+                "id": 28,
                 "position": 4,
-                "score": 9,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 67,
             "stage_id": 2,
-            "group_id": 9,
-            "round_id": 26,
+            "group_id": 8,
+            "round_id": 27,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 15,
+                "id": 13,
                 "position": 3,
-                "score": 16,
-                "result": "win"
+                "score": 1,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 9,
+                "id": 16,
                 "position": 4,
-                "score": 9,
-                "result": "loss"
+                "score": 2,
+                "result": "win"
             }
         },
         {
             "id": 68,
             "stage_id": 2,
-            "group_id": 9,
-            "round_id": 26,
-            "number": 3,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 7,
-                "position": 5,
-                "score": 5,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 31,
-                "position": 6,
-                "score": 16,
-                "result": "win"
-            }
-        },
-        {
-            "id": 69,
-            "stage_id": 1,
             "group_id": 8,
             "round_id": 27,
             "number": 3,
@@ -1368,40 +1291,61 @@
             "opponent1": {
                 "id": 4,
                 "position": 5,
-                "score": 22,
+                "score": 2,
                 "result": "win"
             },
             "opponent2": {
-                "id": 30,
+                "id": 2,
                 "position": 6,
-                "score": 18,
+                "score": 0,
+                "result": "loss"
+            }
+        },
+        {
+            "id": 69,
+            "stage_id": 1,
+            "group_id": 9,
+            "round_id": 26,
+            "number": 3,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": 7,
+                "position": 5,
+                "score": 2,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": 26,
+                "position": 6,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 70,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 26,
             "number": 4,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 11,
+                "id": 14,
                 "position": 7,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 13,
+                "id": 24,
                 "position": 8,
-                "score": 1,
-                "result": "loss"
+                "score": 2,
+                "result": "win"
             }
         },
         {
             "id": 71,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 27,
             "number": 4,
@@ -1410,377 +1354,342 @@
             "opponent1": {
                 "id": 8,
                 "position": 7,
-                "score": 13,
-                "result": "loss"
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
-                "id": 14,
+                "id": 12,
                 "position": 8,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 72,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
             "round_id": 28,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 19,
+                "id": null,
                 "position": 8,
-                "forfeit": true
+                "result": "win"
             },
             "opponent2": {
-                "id": 21,
+                "id": null,
                 "position": 7,
-                "result": "win"
+                "result": "loss"
             }
         },
         {
             "id": 73,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
             "round_id": 29,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 18,
+                "id": 20,
                 "position": 8,
-                "score": 12,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 22,
+                "id": 15,
                 "position": 7,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             }
         },
         {
             "id": 74,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
             "round_id": 28,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 1,
+                "id": null,
                 "position": 6,
-                "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 25,
+                "id": null,
                 "position": 5,
-                "score": 3,
                 "result": "loss"
             }
         },
         {
             "id": 75,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
             "round_id": 29,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 2,
+                "id": 23,
                 "position": 6,
-                "score": 19,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 26,
+                "id": 27,
                 "position": 5,
-                "score": 16,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 76,
             "stage_id": 1,
-            "group_id": 11,
-            "round_id": 29,
+            "group_id": 10,
+            "round_id": 28,
             "number": 3,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 10,
+                "id": null,
                 "position": 4,
-                "score": 14,
-                "result": "loss"
+                "result": "win"
             },
             "opponent2": {
-                "id": 12,
+                "id": null,
                 "position": 3,
-                "score": 16,
-                "result": "win"
+                "result": "loss"
             }
         },
         {
             "id": 77,
             "stage_id": 2,
-            "group_id": 10,
-            "round_id": 28,
+            "group_id": 11,
+            "round_id": 29,
             "number": 3,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 23,
+                "id": 9,
                 "position": 4,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 17,
+                "id": 18,
                 "position": 3,
-                "forfeit": true
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 78,
             "stage_id": 2,
-            "group_id": 10,
-            "round_id": 28,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 5,
-                "position": 2,
-                "score": 16,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 29,
-                "position": 1,
-                "score": 1,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 79,
-            "stage_id": 1,
             "group_id": 11,
             "round_id": 29,
             "number": 4,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 24,
+                "id": 6,
                 "position": 2,
-                "score": 6,
-                "result": "loss"
-            },
-            "opponent2": {
-                "id": 28,
-                "position": 1,
-                "score": 16,
-                "result": "win"
-            }
-        },
-        {
-            "id": 80,
-            "stage_id": 1,
-            "group_id": 11,
-            "round_id": 30,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 20,
-                "position": 2,
-                "score": 16,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 22,
-                "position": 1,
-                "score": 1,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 81,
-            "stage_id": 2,
-            "group_id": 10,
-            "round_id": 31,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 9,
-                "position": 2,
-                "score": 16,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
                 "id": 21,
                 "position": 1,
-                "score": 19,
+                "score": 1,
+                "result": "win"
+            }
+        },
+        {
+            "id": 79,
+            "stage_id": 1,
+            "group_id": 10,
+            "round_id": 28,
+            "number": 4,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": null,
+                "position": 2,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": null,
+                "position": 1,
+                "result": "loss"
+            }
+        },
+        {
+            "id": 80,
+            "stage_id": 1,
+            "group_id": 10,
+            "round_id": 30,
+            "number": 1,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": 28,
+                "position": 2,
+                "result": "win"
+            },
+            "opponent2": {
+                "id": null,
+                "position": 1,
+                "forfeit": true
+            }
+        },
+        {
+            "id": 81,
+            "stage_id": 2,
+            "group_id": 11,
+            "round_id": 31,
+            "number": 1,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": 13,
+                "position": 2,
+                "forfeit": true
+            },
+            "opponent2": {
+                "id": 15,
+                "position": 1,
                 "result": "win"
             }
         },
         {
             "id": 82,
             "stage_id": 2,
-            "group_id": 10,
+            "group_id": 11,
             "round_id": 31,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 27,
+                "id": 0,
                 "position": 1,
-                "score": 14,
-                "result": "loss"
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 1,
+                "id": 23,
                 "position": 2,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 83,
             "stage_id": 1,
-            "group_id": 11,
+            "group_id": 10,
             "round_id": 30,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 6,
+                "id": 1,
                 "position": 1,
-                "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 2,
+                "id": null,
                 "position": 2,
-                "score": 3,
-                "result": "loss"
+                "forfeit": true
             }
         },
         {
             "id": 84,
             "stage_id": 2,
-            "group_id": 10,
+            "group_id": 11,
             "round_id": 31,
             "number": 3,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 13,
+                "id": 12,
                 "position": 4,
-                "score": 5,
-                "result": "loss"
+                "result": "win"
             },
             "opponent2": {
-                "id": 23,
+                "id": 9,
                 "position": 3,
-                "score": 16,
-                "result": "win"
+                "forfeit": true
             }
         },
         {
             "id": 85,
             "stage_id": 1,
-            "group_id": 11,
+            "group_id": 10,
             "round_id": 30,
             "number": 3,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 8,
+                "id": 14,
                 "position": 4,
-                "score": 14,
-                "result": "loss"
+                "result": "win"
             },
             "opponent2": {
-                "id": 12,
+                "id": null,
                 "position": 3,
-                "score": 16,
-                "result": "win"
+                "forfeit": true
             }
         },
         {
             "id": 86,
-            "stage_id": 2,
-            "group_id": 10,
-            "round_id": 31,
-            "number": 4,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 7,
-                "position": 3,
-                "score": 16,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 5,
-                "position": 4,
-                "score": 4,
-                "result": "loss"
-            }
-        },
-        {
-            "id": 87,
             "stage_id": 1,
-            "group_id": 11,
+            "group_id": 10,
             "round_id": 30,
             "number": 4,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 30,
+                "id": 26,
                 "position": 3,
-                "score": 16,
                 "result": "win"
             },
             "opponent2": {
-                "id": 28,
+                "id": null,
                 "position": 4,
-                "score": 8,
+                "forfeit": true
+            }
+        },
+        {
+            "id": 87,
+            "stage_id": 2,
+            "group_id": 11,
+            "round_id": 31,
+            "number": 4,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": 2,
+                "position": 3,
+                "score": 0,
                 "result": "loss"
+            },
+            "opponent2": {
+                "id": 21,
+                "position": 4,
+                "score": 1,
+                "result": "win"
             }
         },
         {
             "id": 88,
             "stage_id": 2,
-            "group_id": 9,
+            "group_id": 8,
             "round_id": 32,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 3,
-                "position": 1,
-                "forfeit": true
-            },
-            "opponent2": {
-                "id": 15,
-                "position": 2,
-                "result": "win"
-            }
-        },
-        {
-            "id": 89,
-            "stage_id": 1,
-            "group_id": 8,
-            "round_id": 33,
-            "number": 1,
-            "child_count": 0,
-            "status": 4,
-            "opponent1": {
-                "id": 0,
+                "id": 25,
                 "position": 1,
                 "score": 2,
                 "result": "win"
@@ -1788,15 +1697,36 @@
             "opponent2": {
                 "id": 16,
                 "position": 2,
-                "score": 1,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
-            "id": 90,
+            "id": 89,
             "stage_id": 1,
-            "group_id": 8,
+            "group_id": 9,
             "round_id": 33,
+            "number": 1,
+            "child_count": 0,
+            "status": 4,
+            "opponent1": {
+                "id": 22,
+                "position": 1,
+                "score": 0,
+                "result": "loss"
+            },
+            "opponent2": {
+                "id": 17,
+                "position": 2,
+                "score": 2,
+                "result": "win"
+            }
+        },
+        {
+            "id": 90,
+            "stage_id": 2,
+            "group_id": 8,
+            "round_id": 32,
             "number": 2,
             "child_count": 0,
             "status": 4,
@@ -1807,7 +1737,7 @@
                 "result": "win"
             },
             "opponent2": {
-                "id": 14,
+                "id": 8,
                 "position": 4,
                 "score": 0,
                 "result": "loss"
@@ -1815,152 +1745,152 @@
         },
         {
             "id": 91,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
-            "round_id": 32,
+            "round_id": 33,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 31,
+                "id": 7,
                 "position": 3,
-                "score": 4,
-                "result": "loss"
+                "score": 2,
+                "result": "win"
             },
             "opponent2": {
-                "id": 11,
+                "id": 24,
                 "position": 4,
-                "score": 16,
-                "result": "win"
+                "score": 1,
+                "result": "loss"
             }
         },
         {
             "id": 92,
             "stage_id": 1,
-            "group_id": 11,
+            "group_id": 10,
             "round_id": 34,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 20,
+                "id": 28,
                 "position": 1,
-                "score": 14,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 6,
+                "id": 1,
                 "position": 2,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             }
         },
         {
             "id": 93,
             "stage_id": 2,
-            "group_id": 10,
+            "group_id": 11,
             "round_id": 35,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 21,
+                "id": 15,
                 "position": 1,
-                "forfeit": true
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 1,
+                "id": 0,
                 "position": 2,
+                "score": 1,
                 "result": "win"
             }
         },
         {
             "id": 94,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
-            "round_id": 34,
+            "round_id": 35,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
                 "id": 12,
                 "position": 3,
-                "score": 6,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 30,
+                "id": 21,
                 "position": 4,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             }
         },
         {
             "id": 95,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
-            "round_id": 35,
+            "round_id": 34,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 23,
+                "id": 14,
                 "position": 3,
-                "score": 7,
-                "result": "loss"
+                "forfeit": true
             },
             "opponent2": {
-                "id": 7,
+                "id": 26,
                 "position": 4,
-                "score": 16,
                 "result": "win"
             }
         },
         {
             "id": 96,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
             "round_id": 36,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 31,
+                "id": 24,
                 "position": 2,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
                 "id": 1,
                 "position": 1,
-                "score": 4,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 97,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
             "round_id": 37,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 14,
+                "id": 8,
                 "position": 2,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 6,
+                "id": 0,
                 "position": 1,
-                "score": 13,
-                "result": "loss"
+                "score": 1,
+                "result": "win"
             }
         },
         {
             "id": 98,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
             "round_id": 37,
             "number": 2,
@@ -1969,45 +1899,47 @@
             "opponent1": {
                 "id": 16,
                 "position": 1,
-                "score": 5,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 30,
+                "id": 21,
                 "position": 2,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             }
         },
         {
             "id": 99,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
             "round_id": 36,
             "number": 2,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 3,
+                "id": 22,
                 "position": 1,
-                "forfeit": true
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 7,
+                "id": 26,
                 "position": 2,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 100,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 8,
             "round_id": 38,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 0,
+                "id": 25,
                 "position": 1,
                 "score": 0,
                 "result": "loss"
@@ -2021,106 +1953,106 @@
         },
         {
             "id": 101,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 9,
             "round_id": 39,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 15,
+                "id": 17,
                 "position": 1,
-                "score": 2,
-                "result": "win"
-            },
-            "opponent2": {
-                "id": 11,
-                "position": 2,
                 "score": 0,
                 "result": "loss"
+            },
+            "opponent2": {
+                "id": 7,
+                "position": 2,
+                "score": 2,
+                "result": "win"
             }
         },
         {
             "id": 102,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
             "round_id": 40,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 31,
+                "id": 24,
                 "position": 1,
-                "score": 9,
-                "result": "loss"
+                "score": 1,
+                "result": "win"
             },
             "opponent2": {
-                "id": 7,
+                "id": 22,
                 "position": 2,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             }
         },
         {
             "id": 103,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
             "round_id": 41,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 14,
+                "id": 0,
                 "position": 1,
-                "score": 16,
-                "result": "win"
+                "score": 0,
+                "result": "loss"
             },
             "opponent2": {
-                "id": 30,
+                "id": 21,
                 "position": 2,
-                "score": 10,
-                "result": "loss"
+                "score": 1,
+                "result": "win"
             }
         },
         {
             "id": 104,
-            "stage_id": 1,
+            "stage_id": 2,
             "group_id": 11,
             "round_id": 42,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 0,
+                "id": 25,
                 "position": 1,
-                "score": 19,
+                "score": 1,
                 "result": "win"
             },
             "opponent2": {
-                "id": 14,
+                "id": 21,
                 "position": 1,
-                "score": 15,
+                "score": 0,
                 "result": "loss"
             }
         },
         {
             "id": 105,
-            "stage_id": 2,
+            "stage_id": 1,
             "group_id": 10,
             "round_id": 43,
             "number": 1,
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 11,
+                "id": 17,
                 "position": 1,
-                "score": 14,
+                "score": 0,
                 "result": "loss"
             },
             "opponent2": {
-                "id": 7,
+                "id": 24,
                 "position": 1,
-                "score": 16,
+                "score": 1,
                 "result": "win"
             }
         },
@@ -2133,15 +2065,15 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 15,
+                "id": 4,
                 "position": 1,
-                "score": 22,
+                "score": 2,
                 "result": "win"
             },
             "opponent2": {
-                "id": 7,
+                "id": 25,
                 "position": 1,
-                "score": 20,
+                "score": 0,
                 "result": "loss"
             }
         },
@@ -2154,15 +2086,15 @@
             "child_count": 0,
             "status": 4,
             "opponent1": {
-                "id": 4,
+                "id": 7,
                 "position": 1,
                 "score": 2,
                 "result": "win"
             },
             "opponent2": {
-                "id": 0,
+                "id": 24,
                 "position": 1,
-                "score": 0,
+                "score": 1,
                 "result": "loss"
             }
         }
@@ -2171,162 +2103,147 @@
     "participant": [
         {
             "id": 0,
-            "name": "POCEBLO",
+            "name": "Zizi académie",
             "tournament_id": 0
         },
         {
             "id": 1,
-            "name": "Team Claquée",
+            "name": "BIM!",
             "tournament_id": 0
         },
         {
             "id": 2,
-            "name": "x0.25",
+            "name": "EnRoueLibre",
             "tournament_id": 0
         },
         {
             "id": 3,
-            "name": "AWLESS",
+            "name": "BRAVES",
             "tournament_id": 0
         },
         {
             "id": 4,
-            "name": "PodiumOuRien",
+            "name": "Dolicrâne",
             "tournament_id": 0
         },
         {
             "id": 5,
-            "name": "SymbiOz",
+            "name": "4eSport",
             "tournament_id": 0
         },
         {
             "id": 6,
-            "name": "Venture_eSport",
-            "tournament_id": 0
-        },
-        {
-            "id": 7,
-            "name": "Getting Meuffed",
-            "tournament_id": 0
-        },
-        {
-            "id": 8,
-            "name": "PipePingouin",
-            "tournament_id": 0
-        },
-        {
-            "id": 9,
-            "name": "Legendary ESIEA Masters",
-            "tournament_id": 0
-        },
-        {
-            "id": 10,
-            "name": "Mario Mousse",
-            "tournament_id": 0
-        },
-        {
-            "id": 11,
             "name": "ZOOLAND",
             "tournament_id": 0
         },
         {
+            "id": 7,
+            "name": "Velkia Esport",
+            "tournament_id": 0
+        },
+        {
+            "id": 8,
+            "name": "Altum Esports",
+            "tournament_id": 0
+        },
+        {
+            "id": 9,
+            "name": "StupFX",
+            "tournament_id": 0
+        },
+        {
+            "id": 10,
+            "name": "ZANIMALS",
+            "tournament_id": 0
+        },
+        {
+            "id": 11,
+            "name": "FAKE",
+            "tournament_id": 0
+        },
+        {
             "id": 12,
-            "name": "DOGinLaN",
+            "name": "PointClick",
             "tournament_id": 0
         },
         {
             "id": 13,
-            "name": "sans pression",
+            "name": "TOP32",
             "tournament_id": 0
         },
         {
             "id": 14,
-            "name": "ploxiFANS",
+            "name": "LDV ESPORT",
             "tournament_id": 0
         },
         {
             "id": 15,
-            "name": "Y",
+            "name": "MANGEMORT",
             "tournament_id": 0
         },
         {
             "id": 16,
-            "name": "REDFOX",
+            "name": "Le Cosmodrome",
             "tournament_id": 0
         },
         {
             "id": 17,
-            "name": "Rxspect",
+            "name": "Noname",
             "tournament_id": 0
         },
         {
             "id": 18,
-            "name": "MAN IN WHITE",
+            "name": "ZOOO",
             "tournament_id": 0
         },
         {
             "id": 19,
-            "name": "UR1KAN",
+            "name": "VOLKORNE",
             "tournament_id": 0
         },
         {
             "id": 20,
-            "name": "Peaky Blinders",
+            "name": "Warzazatte",
             "tournament_id": 0
         },
         {
             "id": 21,
-            "name": "EZ4K",
+            "name": "Project5",
             "tournament_id": 0
         },
         {
             "id": 22,
-            "name": "reDEAFusion",
+            "name": "Spyte Esport",
             "tournament_id": 0
         },
         {
             "id": 23,
-            "name": "Redblood",
+            "name": "Prophecy",
             "tournament_id": 0
         },
         {
             "id": 24,
-            "name": "KebaBEAST",
+            "name": "Tchatcheurs",
             "tournament_id": 0
         },
         {
             "id": 25,
-            "name": "Carry me plz",
+            "name": "NextG Esports",
             "tournament_id": 0
         },
         {
             "id": 26,
-            "name": "dogtrainers",
+            "name": "GIVEME5!",
             "tournament_id": 0
         },
         {
             "id": 27,
-            "name": "Olympe",
+            "name": "tsdespauvres",
             "tournament_id": 0
         },
         {
             "id": 28,
-            "name": "Retour Samedi ou Dimanche",
-            "tournament_id": 0
-        },
-        {
-            "id": 29,
-            "name": "Just Dew It",
-            "tournament_id": 0
-        },
-        {
-            "id": 30,
-            "name": "TIM WHULA",
-            "tournament_id": 0
-        },
-        {
-            "id": 31,
-            "name": "OSBLK",
+            "name": "Agartha Esport",
             "tournament_id": 0
         }
     ]

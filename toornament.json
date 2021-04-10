@@ -32,7 +32,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846889",
+                        "name": "Unnamed #16",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -43,7 +48,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846896",
+                        "name": "Unnamed #17",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -70,7 +80,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846868",
+                        "name": "Unnamed #13",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -81,7 +96,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846917",
+                        "name": "Unnamed #20",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -108,7 +128,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846861",
+                        "name": "Unnamed #12",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -119,7 +144,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846924",
+                        "name": "Unnamed #21",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -146,7 +176,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846882",
+                        "name": "Unnamed #15",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -157,7 +192,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846903",
+                        "name": "Unnamed #18",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -184,7 +224,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846847",
+                        "name": "Unnamed #10",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -195,7 +240,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846938",
+                        "name": "Unnamed #23",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -222,7 +272,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846875",
+                        "name": "Unnamed #14",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -233,7 +288,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846910",
+                        "name": "Unnamed #19",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -260,7 +320,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846854",
+                        "name": "Unnamed #11",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -271,7 +336,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846931",
+                        "name": "Unnamed #22",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -298,7 +368,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846784",
+                        "name": "Unnamed #1",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -336,7 +411,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846833",
+                        "name": "Unnamed #8",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -347,7 +427,12 @@
                 },
                 {
                     "number": 2,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846840",
+                        "name": "Unnamed #9",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 2,
                     "rank": null,
                     "result": null,
@@ -374,7 +459,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846805",
+                        "name": "Unnamed #4",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -412,7 +502,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846812",
+                        "name": "Unnamed #5",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -450,7 +545,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846791",
+                        "name": "Unnamed #2",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -488,7 +588,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846826",
+                        "name": "Unnamed #7",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -526,7 +631,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846798",
+                        "name": "Unnamed #3",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,
@@ -564,7 +674,12 @@
             "opponents": [
                 {
                     "number": 1,
-                    "participant": null,
+                    "participant": {
+                        "id": "4524283942281846819",
+                        "name": "Unnamed #6",
+                        "custom_user_identifier": null,
+                        "custom_fields": {}
+                    },
                     "position": 1,
                     "rank": null,
                     "result": null,

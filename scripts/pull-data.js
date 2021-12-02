@@ -10,12 +10,16 @@ async function request(route, range) {
     headers.append('Range', range);
 
     const res = await fetch('https://api.toornament.com/organizer/v2' + route, { headers });
-    return res.json()
+    return res.json();
 }
 
 async function pullData(tournamentId) {
     const stages = await request(`/stages?tournament_ids=${tournamentId}`, 'stages=0-49');
     console.log(stages);
+
+    const roundRobinStageIds = stages.filter(stage => stage.type === 'pools').map(stage => stage.id);
+    const matches = await request(`/matches?stage_ids=${roundRobinStageIds.join(',')}`, 'matches=0-99');
+    console.log(matches);
 
     const nodes = await request(`/bracket-nodes?tournament_ids=${tournamentId}`, 'nodes=0-127');
     console.log(nodes);
@@ -35,8 +39,8 @@ async function pullData(tournamentId) {
     return {
         tournament_id: tournamentId,
         stages,
-        matches: nodes,
-        match_games
+        matches: [...matches, ...nodes],
+        match_games,
     };
 }
 

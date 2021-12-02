@@ -89,6 +89,2265 @@
     ],
     "matches": [
         {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486727",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486720",
+            "round_id": "4469575067699486726",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-28T18:38:20+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003259993677824",
+                        "name": "Zizi académie",
+                        "custom_user_identifier": "Zizi",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003269258256384",
+                        "name": "BIM!",
+                        "custom_user_identifier": "BIM!",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 8
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486730",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486720",
+            "round_id": "4469575067699486726",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T13:08:20+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481757307603329024",
+                        "name": "EnRoueLibre",
+                        "custom_user_identifier": "RLIBR",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003250363760640",
+                        "name": "BRAVES",
+                        "custom_user_identifier": "BRAVE",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486734",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486720",
+            "round_id": "4469575067699486733",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:07:30+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003259993677824",
+                        "name": "Zizi académie",
+                        "custom_user_identifier": "Zizi",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003250363760640",
+                        "name": "BRAVES",
+                        "custom_user_identifier": "BRAVE",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486737",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486720",
+            "round_id": "4469575067699486733",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:14:20+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003269258256384",
+                        "name": "BIM!",
+                        "custom_user_identifier": "BIM!",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 11
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481757307603329024",
+                        "name": "EnRoueLibre",
+                        "custom_user_identifier": "RLIBR",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486741",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486720",
+            "round_id": "4469575067699486740",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:50:35+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003259993677824",
+                        "name": "Zizi académie",
+                        "custom_user_identifier": "Zizi",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 19
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481757307603329024",
+                        "name": "EnRoueLibre",
+                        "custom_user_identifier": "RLIBR",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 15
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486744",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486720",
+            "round_id": "4469575067699486740",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:33:48+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003250363760640",
+                        "name": "BRAVES",
+                        "custom_user_identifier": "BRAVE",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003269258256384",
+                        "name": "BIM!",
+                        "custom_user_identifier": "BIM!",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486754",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486747",
+            "round_id": "4469575067699486753",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:33:28+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003255187300352",
+                        "name": "Dolicrâne",
+                        "custom_user_identifier": "DOLI",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003219250257920",
+                        "name": "4eSport",
+                        "custom_user_identifier": "4eS",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486757",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486747",
+            "round_id": "4469575067699486753",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:31:56+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003159095934976",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": "ZOO",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003175025991680",
+                        "name": "Velkia Esport",
+                        "custom_user_identifier": "Vlk",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486761",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486747",
+            "round_id": "4469575067699486760",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:07:11+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003255187300352",
+                        "name": "Dolicrâne",
+                        "custom_user_identifier": "DOLI",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003175025991680",
+                        "name": "Velkia Esport",
+                        "custom_user_identifier": "Vlk",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067699486764",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486747",
+            "round_id": "4469575067699486760",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:17:48+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003219250257920",
+                        "name": "4eSport",
+                        "custom_user_identifier": "4eS",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 2
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003159095934976",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": "ZOO",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041200",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486747",
+            "round_id": "4469575067699486767",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:18:56+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003255187300352",
+                        "name": "Dolicrâne",
+                        "custom_user_identifier": "DOLI",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003159095934976",
+                        "name": "ZOOLAND",
+                        "custom_user_identifier": "ZOO",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041203",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067699486747",
+            "round_id": "4469575067699486767",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:17:44+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003175025991680",
+                        "name": "Velkia Esport",
+                        "custom_user_identifier": "Vlk",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003219250257920",
+                        "name": "4eSport",
+                        "custom_user_identifier": "4eS",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": true,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041213",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041206",
+            "round_id": "4469575067733041212",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003133493805056",
+                        "name": "Altum Esports",
+                        "custom_user_identifier": "ALTUM",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041216",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041206",
+            "round_id": "4469575067733041212",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:35:43+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003169564516352",
+                        "name": "StupFX",
+                        "custom_user_identifier": "STX",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003144533147648",
+                        "name": "ZANIMALS",
+                        "custom_user_identifier": "Z'",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041220",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041206",
+            "round_id": "4469575067733041219",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:05:36+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003133493805056",
+                        "name": "Altum Esports",
+                        "custom_user_identifier": "ALTUM",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003144533147648",
+                        "name": "ZANIMALS",
+                        "custom_user_identifier": "Z'",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041223",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041206",
+            "round_id": "4469575067733041219",
+            "number": 2,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003169564516352",
+                        "name": "StupFX",
+                        "custom_user_identifier": "STX",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041227",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041206",
+            "round_id": "4469575067733041226",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:18:34+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003133493805056",
+                        "name": "Altum Esports",
+                        "custom_user_identifier": "ALTUM",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003169564516352",
+                        "name": "StupFX",
+                        "custom_user_identifier": "STX",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041230",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041206",
+            "round_id": "4469575067733041226",
+            "number": 2,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003144533147648",
+                        "name": "ZANIMALS",
+                        "custom_user_identifier": "Z'",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041240",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041233",
+            "round_id": "4469575067733041239",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003223657824256",
+                        "name": "FAKE",
+                        "custom_user_identifier": "FAKE",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041243",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041233",
+            "round_id": "4469575067733041239",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:39:36+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003235457081344",
+                        "name": "PointClick",
+                        "custom_user_identifier": ".Clik",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 23
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003184600350720",
+                        "name": "TOP32",
+                        "custom_user_identifier": "TOP32",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 25
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041247",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041233",
+            "round_id": "4469575067733041246",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003223657824256",
+                        "name": "FAKE",
+                        "custom_user_identifier": "FAKE",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003184600350720",
+                        "name": "TOP32",
+                        "custom_user_identifier": "TOP32",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041250",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041233",
+            "round_id": "4469575067733041246",
+            "number": 2,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003235457081344",
+                        "name": "PointClick",
+                        "custom_user_identifier": ".Clik",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041254",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041233",
+            "round_id": "4469575067733041253",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003223657824256",
+                        "name": "FAKE",
+                        "custom_user_identifier": "FAKE",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003235457081344",
+                        "name": "PointClick",
+                        "custom_user_identifier": ".Clik",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041257",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041233",
+            "round_id": "4469575067733041253",
+            "number": 2,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003184600350720",
+                        "name": "TOP32",
+                        "custom_user_identifier": "TOP32",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041267",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041260",
+            "round_id": "4469575067733041266",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003274279788544",
+                        "name": "LDV ESPORT",
+                        "custom_user_identifier": "LDV",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041270",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041260",
+            "round_id": "4469575067733041266",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:40:04+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003199587491840",
+                        "name": "MANGEMORT",
+                        "custom_user_identifier": "TMOR",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 10
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003214620049408",
+                        "name": "Le Cosmodrome",
+                        "custom_user_identifier": "Cosmo",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041274",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041260",
+            "round_id": "4469575067733041273",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003214620049408",
+                        "name": "Le Cosmodrome",
+                        "custom_user_identifier": "Cosmo",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041277",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041260",
+            "round_id": "4469575067733041273",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:38:35+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003274279788544",
+                        "name": "LDV ESPORT",
+                        "custom_user_identifier": "LDV",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 9
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003199587491840",
+                        "name": "MANGEMORT",
+                        "custom_user_identifier": "TMOR",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041281",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041260",
+            "round_id": "4469575067733041280",
+            "number": 1,
+            "type": "duel",
+            "status": "pending",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": null,
+            "public_note": null,
+            "private_note": null,
+            "report_closed": false,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": null,
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003199587491840",
+                        "name": "MANGEMORT",
+                        "custom_user_identifier": "TMOR",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": null,
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041284",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041260",
+            "round_id": "4469575067733041280",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:37:17+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003214620049408",
+                        "name": "Le Cosmodrome",
+                        "custom_user_identifier": "Cosmo",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003274279788544",
+                        "name": "LDV ESPORT",
+                        "custom_user_identifier": "LDV",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041294",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041287",
+            "round_id": "4469575067733041293",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:41:05+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003203991740416",
+                        "name": "Noname",
+                        "custom_user_identifier": "NN",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003153998618624",
+                        "name": "ZOOO",
+                        "custom_user_identifier": "ZOOO*",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041297",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041287",
+            "round_id": "4469575067733041293",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T13:07:17+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003209531285504",
+                        "name": "VOLKORNE",
+                        "custom_user_identifier": "VOLK-",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003264683016192",
+                        "name": "Warzazatte",
+                        "custom_user_identifier": "Warz",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041301",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041287",
+            "round_id": "4469575067733041300",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:16:11+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003203991740416",
+                        "name": "Noname",
+                        "custom_user_identifier": "NN",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 10
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003264683016192",
+                        "name": "Warzazatte",
+                        "custom_user_identifier": "Warz",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041304",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041287",
+            "round_id": "4469575067733041300",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:20:01+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003153998618624",
+                        "name": "ZOOO",
+                        "custom_user_identifier": "ZOOO*",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003209531285504",
+                        "name": "VOLKORNE",
+                        "custom_user_identifier": "VOLK-",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041308",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041287",
+            "round_id": "4469575067733041307",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:20:15+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003203991740416",
+                        "name": "Noname",
+                        "custom_user_identifier": "NN",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": null
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003209531285504",
+                        "name": "VOLKORNE",
+                        "custom_user_identifier": "VOLK-",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": null
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041311",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041287",
+            "round_id": "4469575067733041307",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:34:23+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003264683016192",
+                        "name": "Warzazatte",
+                        "custom_user_identifier": "Warz",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003153998618624",
+                        "name": "ZOOO",
+                        "custom_user_identifier": "ZOOO*",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 11
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041321",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041314",
+            "round_id": "4469575067733041320",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:03:19+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003194621493248",
+                        "name": "Project5",
+                        "custom_user_identifier": "P5",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003179421409280",
+                        "name": "Spyte Esport",
+                        "custom_user_identifier": "Spyte",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 7
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041324",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041314",
+            "round_id": "4469575067733041320",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:58:17+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003164232884224",
+                        "name": "Prophecy",
+                        "custom_user_identifier": "PROPH",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003138996387840",
+                        "name": "Tchatcheurs",
+                        "custom_user_identifier": "Tchat",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041328",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041314",
+            "round_id": "4469575067733041327",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:16:56+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003194621493248",
+                        "name": "Project5",
+                        "custom_user_identifier": "P5",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003138996387840",
+                        "name": "Tchatcheurs",
+                        "custom_user_identifier": "Tchat",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 8
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041331",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041314",
+            "round_id": "4469575067733041327",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:58:47+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003179421409280",
+                        "name": "Spyte Esport",
+                        "custom_user_identifier": "Spyte",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003164232884224",
+                        "name": "Prophecy",
+                        "custom_user_identifier": "PROPH",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041335",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041314",
+            "round_id": "4469575067733041334",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:31:25+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003194621493248",
+                        "name": "Project5",
+                        "custom_user_identifier": "P5",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 9
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003164232884224",
+                        "name": "Prophecy",
+                        "custom_user_identifier": "PROPH",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041338",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041314",
+            "round_id": "4469575067733041334",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:33:50+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003138996387840",
+                        "name": "Tchatcheurs",
+                        "custom_user_identifier": "Tchat",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003179421409280",
+                        "name": "Spyte Esport",
+                        "custom_user_identifier": "Spyte",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041348",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041341",
+            "round_id": "4469575067733041347",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:36:27+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003149222551552",
+                        "name": "NextG Esports",
+                        "custom_user_identifier": "NxG",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003240200372224",
+                        "name": "GIVEME5!",
+                        "custom_user_identifier": "GM5!",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041351",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041341",
+            "round_id": "4469575067733041347",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T14:36:51+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481596124773130240",
+                        "name": "tsdespauvres",
+                        "custom_user_identifier": "no$",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003189823447040",
+                        "name": "Agartha Esport",
+                        "custom_user_identifier": "ARA",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 12
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041355",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041341",
+            "round_id": "4469575067733041354",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:40:45+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003149222551552",
+                        "name": "NextG Esports",
+                        "custom_user_identifier": "NxG",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003189823447040",
+                        "name": "Agartha Esport",
+                        "custom_user_identifier": "ARA",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 14
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041358",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041341",
+            "round_id": "4469575067733041354",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T15:15:02+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003240200372224",
+                        "name": "GIVEME5!",
+                        "custom_user_identifier": "GM5!",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 5
+                },
+                {
+                    "number": 2,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481596124773130240",
+                        "name": "tsdespauvres",
+                        "custom_user_identifier": "no$",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041362",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041341",
+            "round_id": "4469575067733041361",
+            "number": 1,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:18:00+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003149222551552",
+                        "name": "NextG Esports",
+                        "custom_user_identifier": "NxG",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481596124773130240",
+                        "name": "tsdespauvres",
+                        "custom_user_identifier": "no$",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "tournament_id": "4468708049713692672",
+            "id": "4469575067733041365",
+            "stage_id": "4468722610928861184",
+            "group_id": "4469575067733041341",
+            "round_id": "4469575067733041361",
+            "number": 2,
+            "type": "duel",
+            "status": "completed",
+            "settings": {
+                "match_format": null
+            },
+            "scheduled_datetime": null,
+            "played_at": "2021-03-27T16:51:58+00:00",
+            "public_note": null,
+            "private_note": null,
+            "report_closed": true,
+            "opponents": [
+                {
+                    "number": 1,
+                    "position": 1,
+                    "participant": {
+                        "id": "4481003189823447040",
+                        "name": "Agartha Esport",
+                        "custom_user_identifier": "ARA",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "win",
+                    "forfeit": false,
+                    "score": 16
+                },
+                {
+                    "number": 2,
+                    "position": 2,
+                    "participant": {
+                        "id": "4481003240200372224",
+                        "name": "GIVEME5!",
+                        "custom_user_identifier": "GM5!",
+                        "custom_fields": {}
+                    },
+                    "rank": null,
+                    "result": "loss",
+                    "forfeit": false,
+                    "score": 10
+                }
+            ]
+        },
+        {
             "id": "4468738263736213552",
             "tournament_id": "4468708049713692672",
             "stage_id": "4468738262964461568",

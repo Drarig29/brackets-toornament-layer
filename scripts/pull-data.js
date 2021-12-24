@@ -18,13 +18,13 @@ async function pullData(tournamentId) {
     console.log(stages);
 
     const roundRobinStageIds = stages.filter(stage => stage.type === 'pools').map(stage => stage.id);
-    const matches = await request(`/matches?stage_ids=${roundRobinStageIds.join(',')}`, 'matches=0-99');
-    console.log(matches);
+    const roundRobinMatches = await request(`/matches?stage_ids=${roundRobinStageIds.join(',')}`, 'matches=0-99');
+    console.log(roundRobinMatches);
 
     const nodes = await request(`/bracket-nodes?tournament_ids=${tournamentId}`, 'nodes=0-127');
     console.log(nodes);
 
-    const match_games = [];
+    const matchGames = [];
 
     for (const node of nodes) {
         const games = (await request(`/matches/${node.id}/games`, 'games=0-49')).map(game => ({
@@ -32,14 +32,17 @@ async function pullData(tournamentId) {
             ...game,
         }));
 
-        match_games.push(...games);
+        matchGames.push(...games);
         console.log(games);
     }
+
+    const matches = [...roundRobinMatches, nodes].sort((a, b) => a.round_id - b.round_id);
+    const match_games = matchGames.sort((a, b) => a.parent_id - b.parent_id);
 
     return {
         tournament_id: tournamentId,
         stages,
-        matches: [...matches, ...nodes],
+        matches,
         match_games,
     };
 }

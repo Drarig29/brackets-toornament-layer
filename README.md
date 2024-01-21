@@ -18,7 +18,7 @@ Toornament API routes needed:
 
 The input is constructed as this:
 
-```json
+```jsonc
 {
     "tournament_id": "4468708049713692672", // Input tournament ID
     "stages": [ 

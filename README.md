@@ -34,7 +34,7 @@ The input is constructed as this:
 }
 ```
 
-**Note:** If `match_games` is omitted, the `child_count` will be set to
+**Note:** If `match_games` is omitted, the `child_count` will be set to `0`.
 
 # How to test
 
